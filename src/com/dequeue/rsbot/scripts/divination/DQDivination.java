@@ -6,7 +6,6 @@ import com.dequeue.rsbot.scripts.divination.tasks.CollectChronicle;
 import com.dequeue.rsbot.scripts.divination.tasks.Convert;
 import com.dequeue.rsbot.scripts.divination.tasks.Harvest;
 import com.dequeue.rsbot.scripts.framework.Task;
-import com.dequeue.rsbot.scripts.framework.graphics.*;
 import com.dequeue.rsbot.scripts.framework.graphics.Painter;
 import org.powerbot.event.BotMenuListener;
 import org.powerbot.event.MessageEvent;
@@ -22,7 +21,8 @@ import javax.swing.event.MenuEvent;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -35,11 +35,11 @@ public class DQDivination extends PollingScript implements MessageListener, Pain
 
     public int conversionChoice = 2;
     public boolean guiFinished, initialized, haveMaxChronicles;
-    private List<Task> taskList = new ArrayList<Task>();
     public Wisp wisp = Wisp.NONE;
-    private GUI gui;
     public Drawable currentFocus;
     public Painter painter = new Painter(this, ctx, Skills.DIVINATION);
+    private List<Task> taskList = new ArrayList<Task>();
+    private GUI gui;
 
     @Override
     public void start() {
@@ -88,10 +88,10 @@ public class DQDivination extends PollingScript implements MessageListener, Pain
     @Override
     public void repaint(Graphics g) {
         if (!initialized || !ctx.players.local().isValid()) return;
-        if (currentFocus != null) {
-            currentFocus.draw(g);
-            g.drawString(currentFocus.toString(), 400, 400);
-        } else g.drawString("null", 400, 400);
+//        if (currentFocus != null) {
+//            currentFocus.draw(g);
+//            g.drawString(currentFocus.toString(), 400, 400);
+//        } else g.drawString("null", 400, 400);
         painter.repaint(g);
     }
 

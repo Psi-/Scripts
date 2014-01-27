@@ -1,6 +1,5 @@
 package com.dequeue.rsbot.scripts.framework;
 
-import com.dequeue.rsbot.scripts.divination.DQDivination;
 import org.powerbot.script.AbstractScript;
 import org.powerbot.script.methods.MethodProvider;
 

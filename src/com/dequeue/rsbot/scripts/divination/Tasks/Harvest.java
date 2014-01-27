@@ -26,30 +26,26 @@ public class Harvest extends Task {
 
     @Override
     public boolean activate() {
-        if (ctx.backpack.select().count() < 28
-                && !ctx.players.local().isInMotion()) {
-            return !Condition.wait(new Callable<Boolean>() {
-                @Override
-                public Boolean call() throws Exception {
-                    return ctx.players.local().getAnimation() != -1;
-                }
-            }, 100, Random.nextInt(10, 20));
-        }
-        return false;
+        return ctx.backpack.select().count() < 28 && !ctx.players.local().isInMotion() &&
+                !Condition.wait(new Callable<Boolean>() {
+                    @Override
+                    public Boolean call() throws Exception {
+                        return ctx.players.local().getAnimation() != -1;
+                    }
+                }, 100, Random.nextInt(10, 20));
     }
 
     @Override
     public void execute() {
         script.painter.setStatus("Harvesting " + script.wisp + " wisps");
-        Npc npc;
+        Npc npc = null;
         try {
             npc = (Npc) script.currentFocus;
-        } catch (ClassCastException e) {
-            npc = nextNpc(1, ctx, script.wisp.getWispId(), script.wisp.getSpringId());
-            script.currentFocus = npc;
+        } catch (ClassCastException ignored) {
         }
         if (npc == null || !npc.isValid()) {
-            npc = nextNpc(1, ctx, script.wisp.getWispId(), script.wisp.getSpringId());
+            npc = nextNpc(1, ctx, script.wisp.getEnrichedSpringId(), script.wisp.getEnrichedWispId(),
+                    script.wisp.getWispId(), script.wisp.getSpringId());
             script.currentFocus = npc;
         }
 

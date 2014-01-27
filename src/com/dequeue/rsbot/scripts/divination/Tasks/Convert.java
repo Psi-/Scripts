@@ -34,13 +34,13 @@ public class Convert extends Task {
     @Override
     public boolean activate() {
         return ctx.widgets.get(CONVERT_WIDGET_ID, MEMORY_TO_EXP_COMPONENT_ID).isOnScreen()
-                | (ctx.backpack.select().count() == 28 && !ctx.players.local().isInMotion());
+                || (ctx.backpack.select().count() == 28 && !ctx.players.local().isInMotion());
     }
 
     @Override
     public void execute() {
         script.painter.setStatus("Converting memories");
-        final int componentId = CONVERSION_CHOICES[this.script.conversionChoice];
+        final int componentId = CONVERSION_CHOICES[script.conversionChoice];
         if (ctx.widgets.get(CONVERT_WIDGET_ID, componentId).isOnScreen()) {
             ctx.widgets.get(CONVERT_WIDGET_ID, componentId).click();
             return;
@@ -64,9 +64,6 @@ public class Convert extends Task {
                     ctx.movement.stepTowards(rift);
                 }
             }
-
-        } else {
-            ctx.properties.setProperty("travel", "true");
         }
     }
 }

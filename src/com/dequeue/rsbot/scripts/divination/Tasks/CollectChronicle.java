@@ -21,16 +21,13 @@ public class CollectChronicle extends Task {
 
     @Override
     public boolean activate() {
-        return //!script.haveMaxChronicles &&
-                !ctx.npcs.select().id(script.wisp.getEnrichedWispId(), script.wisp.getEnrichedSpringId()).isEmpty();
+        return !script.haveMaxChronicles && !ctx.npcs.select().id(chronicleId).isEmpty();
     }
 
     @Override
     public void execute() {
-        script.painter.setStatus("Harvesting Enriched " + script.wisp);
-//        script.bar.setStatus("Collecting Chronicle");
+        script.painter.setStatus("Collecting Chronicle");
         Npc npc = ctx.npcs.poll();
-        npc.interact("Harvest");
-//            npc.interact("Capture");
+        npc.interact("Capture");
     }
 }
