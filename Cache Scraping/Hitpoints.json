@@ -1,0 +1,2330 @@
+{"id":74,"hitpoints":12,"name":"Khazard helmet"}
+{"id":75,"hitpoints":24,"name":"Khazard armour"}
+{"id":577,"hitpoints":24,"name":"Wizard robe top"}
+{"id":579,"hitpoints":12,"name":"Wizard hat"}
+{"id":581,"hitpoints":24,"name":"Black robe top"}
+{"id":839,"hitpoints":75,"name":"Shieldbow"}
+{"id":845,"hitpoints":150,"name":"Oak shieldbow"}
+{"id":847,"hitpoints":300,"name":"Willow shieldbow"}
+{"id":851,"hitpoints":450,"name":"Maple shieldbow"}
+{"id":855,"hitpoints":600,"name":"Yew shieldbow"}
+{"id":859,"hitpoints":750,"name":"Magic shieldbow"}
+{"id":1011,"hitpoints":90,"name":"Wizard robe skirt"}
+{"id":1015,"hitpoints":90,"name":"Black robe skirt"}
+{"id":1017,"hitpoints":60,"name":"Wizard hat"}
+{"id":1035,"hitpoints":120,"name":"Zamorak robe"}
+{"id":1052,"hitpoints":100,"name":"Cape of legends"}
+{"id":1059,"hitpoints":3,"name":"Leather gloves"}
+{"id":1061,"hitpoints":3,"name":"Leather boots"}
+{"id":1063,"hitpoints":3,"name":"Leather vambraces"}
+{"id":1065,"hitpoints":120,"name":"Green d'hide vambraces"}
+{"id":1067,"hitpoints":180,"name":"Iron platelegs"}
+{"id":1069,"hitpoints":360,"name":"Steel platelegs"}
+{"id":1071,"hitpoints":540,"name":"Mithril platelegs"}
+{"id":1073,"hitpoints":720,"name":"Adamant platelegs"}
+{"id":1075,"hitpoints":90,"name":"Bronze platelegs"}
+{"id":1077,"hitpoints":450,"name":"Black platelegs"}
+{"id":1079,"hitpoints":900,"name":"Rune platelegs"}
+{"id":1081,"hitpoints":180,"name":"Iron plateskirt"}
+{"id":1083,"hitpoints":360,"name":"Steel plateskirt"}
+{"id":1085,"hitpoints":540,"name":"Mithril plateskirt"}
+{"id":1087,"hitpoints":90,"name":"Bronze plateskirt"}
+{"id":1089,"hitpoints":450,"name":"Black plateskirt"}
+{"id":1091,"hitpoints":720,"name":"Adamant plateskirt"}
+{"id":1093,"hitpoints":900,"name":"Rune plateskirt"}
+{"id":1095,"hitpoints":90,"name":"Leather chaps"}
+{"id":1097,"hitpoints":360,"name":"Studded chaps"}
+{"id":1099,"hitpoints":720,"name":"Green d'hide chaps"}
+{"id":1101,"hitpoints":192,"name":"Iron chainbody"}
+{"id":1103,"hitpoints":72,"name":"Bronze chainbody"}
+{"id":1105,"hitpoints":432,"name":"Steel chainbody"}
+{"id":1107,"hitpoints":552,"name":"Black chainbody"}
+{"id":1109,"hitpoints":672,"name":"Mithril chainbody"}
+{"id":1111,"hitpoints":912,"name":"Adamant chainbody"}
+{"id":1113,"hitpoints":1152,"name":"Rune chainbody"}
+{"id":1115,"hitpoints":240,"name":"Iron platebody"}
+{"id":1117,"hitpoints":120,"name":"Bronze platebody"}
+{"id":1119,"hitpoints":480,"name":"Steel platebody"}
+{"id":1121,"hitpoints":720,"name":"Mithril platebody"}
+{"id":1123,"hitpoints":960,"name":"Adamant platebody"}
+{"id":1125,"hitpoints":600,"name":"Black platebody"}
+{"id":1127,"hitpoints":1200,"name":"Rune platebody"}
+{"id":1129,"hitpoints":120,"name":"Leather body"}
+{"id":1131,"hitpoints":240,"name":"Hard leather body"}
+{"id":1133,"hitpoints":480,"name":"Studded body"}
+{"id":1135,"hitpoints":960,"name":"Green d'hide body"}
+{"id":1137,"hitpoints":96,"name":"Iron helm"}
+{"id":1139,"hitpoints":36,"name":"Bronze helm"}
+{"id":1141,"hitpoints":216,"name":"Steel helm"}
+{"id":1143,"hitpoints":336,"name":"Mithril helm"}
+{"id":1145,"hitpoints":456,"name":"Adamant helm"}
+{"id":1147,"hitpoints":576,"name":"Rune helm"}
+{"id":1149,"hitpoints":696,"name":"Dragon helm"}
+{"id":1151,"hitpoints":276,"name":"Black helm"}
+{"id":1153,"hitpoints":120,"name":"Iron full helm"}
+{"id":1155,"hitpoints":60,"name":"Bronze full helm"}
+{"id":1157,"hitpoints":240,"name":"Steel full helm"}
+{"id":1159,"hitpoints":360,"name":"Mithril full helm"}
+{"id":1161,"hitpoints":480,"name":"Adamant full helm"}
+{"id":1163,"hitpoints":600,"name":"Rune full helm"}
+{"id":1165,"hitpoints":300,"name":"Black full helm"}
+{"id":1167,"hitpoints":60,"name":"Leather cowl"}
+{"id":1169,"hitpoints":240,"name":"Coif"}
+{"id":1171,"hitpoints":15,"name":"Wooden shield"}
+{"id":1173,"hitpoints":45,"name":"Bronze sq shield"}
+{"id":1175,"hitpoints":120,"name":"Iron sq shield"}
+{"id":1177,"hitpoints":270,"name":"Steel sq shield"}
+{"id":1179,"hitpoints":345,"name":"Black sq shield"}
+{"id":1181,"hitpoints":420,"name":"Mithril sq shield"}
+{"id":1183,"hitpoints":570,"name":"Adamant sq shield"}
+{"id":1185,"hitpoints":720,"name":"Rune sq shield"}
+{"id":1187,"hitpoints":870,"name":"Dragon sq shield"}
+{"id":1189,"hitpoints":75,"name":"Bronze kiteshield"}
+{"id":1191,"hitpoints":150,"name":"Iron kiteshield"}
+{"id":1193,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":1195,"hitpoints":375,"name":"Black kiteshield"}
+{"id":1197,"hitpoints":450,"name":"Mithril kiteshield"}
+{"id":1199,"hitpoints":600,"name":"Adamant kiteshield"}
+{"id":1201,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":1495,"hitpoints":3,"name":"Klank's gauntlets"}
+{"id":1540,"hitpoints":75,"name":"Anti-dragon shield"}
+{"id":2412,"hitpoints":0,"name":"Saradomin cape"}
+{"id":2413,"hitpoints":0,"name":"Guthix cape"}
+{"id":2414,"hitpoints":0,"name":"Zamorak cape"}
+{"id":2487,"hitpoints":150,"name":"Blue d'hide vambraces"}
+{"id":2489,"hitpoints":165,"name":"Red d'hide vambraces"}
+{"id":2491,"hitpoints":180,"name":"Black d'hide vambraces"}
+{"id":2493,"hitpoints":900,"name":"Blue d'hide chaps"}
+{"id":2495,"hitpoints":990,"name":"Red d'hide chaps"}
+{"id":2497,"hitpoints":1080,"name":"Black d'hide chaps"}
+{"id":2499,"hitpoints":1200,"name":"Blue d'hide body"}
+{"id":2501,"hitpoints":1320,"name":"Red d'hide body"}
+{"id":2503,"hitpoints":1440,"name":"Black d'hide body"}
+{"id":2577,"hitpoints":120,"name":"Ranger boots"}
+{"id":2579,"hitpoints":60,"name":"Wizard boots"}
+{"id":2581,"hitpoints":480,"name":"Robin hood hat"}
+{"id":2583,"hitpoints":600,"name":"Black platebody (t)"}
+{"id":2585,"hitpoints":450,"name":"Black platelegs (t)"}
+{"id":2587,"hitpoints":300,"name":"Black full helm (t)"}
+{"id":2589,"hitpoints":375,"name":"Black kiteshield (t)"}
+{"id":2591,"hitpoints":600,"name":"Black platebody (g)"}
+{"id":2593,"hitpoints":450,"name":"Black platelegs (g)"}
+{"id":2595,"hitpoints":300,"name":"Black full helm (g)"}
+{"id":2597,"hitpoints":375,"name":"Black kiteshield (g)"}
+{"id":2599,"hitpoints":960,"name":"Adamant platebody (t)"}
+{"id":2601,"hitpoints":720,"name":"Adamant platelegs (t)"}
+{"id":2603,"hitpoints":600,"name":"Adamant kiteshield (t)"}
+{"id":2605,"hitpoints":480,"name":"Adamant full helm (t)"}
+{"id":2607,"hitpoints":960,"name":"Adamant platebody (g)"}
+{"id":2609,"hitpoints":720,"name":"Adamant platelegs (g)"}
+{"id":2611,"hitpoints":600,"name":"Adamant kiteshield (g)"}
+{"id":2613,"hitpoints":480,"name":"Adamant full helm (g)"}
+{"id":2615,"hitpoints":1200,"name":"Rune platebody (g)"}
+{"id":2617,"hitpoints":900,"name":"Rune platelegs (g)"}
+{"id":2619,"hitpoints":600,"name":"Rune full helm (g)"}
+{"id":2621,"hitpoints":750,"name":"Rune kiteshield (g)"}
+{"id":2623,"hitpoints":1200,"name":"Rune platebody (t)"}
+{"id":2625,"hitpoints":900,"name":"Rune platelegs (t)"}
+{"id":2627,"hitpoints":600,"name":"Rune full helm (t)"}
+{"id":2629,"hitpoints":750,"name":"Rune kiteshield (t)"}
+{"id":2653,"hitpoints":1200,"name":"Zamorak platebody"}
+{"id":2655,"hitpoints":900,"name":"Zamorak platelegs"}
+{"id":2657,"hitpoints":600,"name":"Zamorak full helm"}
+{"id":2659,"hitpoints":750,"name":"Zamorak kiteshield"}
+{"id":2661,"hitpoints":1200,"name":"Saradomin platebody"}
+{"id":2663,"hitpoints":900,"name":"Saradomin platelegs"}
+{"id":2665,"hitpoints":600,"name":"Saradomin full helm"}
+{"id":2667,"hitpoints":750,"name":"Saradomin kiteshield"}
+{"id":2669,"hitpoints":1200,"name":"Guthix platebody"}
+{"id":2671,"hitpoints":900,"name":"Guthix platelegs"}
+{"id":2673,"hitpoints":600,"name":"Guthix full helm"}
+{"id":2675,"hitpoints":750,"name":"Guthix kiteshield"}
+{"id":2883,"hitpoints":450,"name":"Ogre bow"}
+{"id":2890,"hitpoints":15,"name":"Elemental shield"}
+{"id":2997,"hitpoints":3,"name":"Pirate's hook"}
+{"id":3105,"hitpoints":3,"name":"Rock climbing boots"}
+{"id":3122,"hitpoints":825,"name":"Granite shield"}
+{"id":3140,"hitpoints":1392,"name":"Dragon chainbody"}
+{"id":3385,"hitpoints":480,"name":"Splitbark helm"}
+{"id":3387,"hitpoints":960,"name":"Splitbark body"}
+{"id":3389,"hitpoints":720,"name":"Splitbark legs"}
+{"id":3391,"hitpoints":120,"name":"Splitbark gauntlets"}
+{"id":3393,"hitpoints":120,"name":"Splitbark boots"}
+{"id":3472,"hitpoints":450,"name":"Black plateskirt (t)"}
+{"id":3473,"hitpoints":450,"name":"Black plateskirt (g)"}
+{"id":3474,"hitpoints":720,"name":"Adamant plateskirt (t)"}
+{"id":3475,"hitpoints":720,"name":"Adamant plateskirt (g)"}
+{"id":3476,"hitpoints":900,"name":"Rune plateskirt (g)"}
+{"id":3477,"hitpoints":900,"name":"Rune plateskirt (t)"}
+{"id":3478,"hitpoints":900,"name":"Zamorak plateskirt"}
+{"id":3479,"hitpoints":900,"name":"Saradomin plateskirt"}
+{"id":3480,"hitpoints":900,"name":"Guthix plateskirt"}
+{"id":3481,"hitpoints":1200,"name":"Gilded platebody"}
+{"id":3483,"hitpoints":900,"name":"Gilded platelegs"}
+{"id":3485,"hitpoints":900,"name":"Gilded plateskirt"}
+{"id":3486,"hitpoints":600,"name":"Gilded full helm"}
+{"id":3488,"hitpoints":750,"name":"Gilded kiteshield"}
+{"id":3748,"hitpoints":360,"name":"Fremennik helm"}
+{"id":3749,"hitpoints":540,"name":"Archer helm"}
+{"id":3751,"hitpoints":540,"name":"Berserker helm"}
+{"id":3753,"hitpoints":540,"name":"Warrior helm"}
+{"id":3755,"hitpoints":540,"name":"Farseer helm"}
+{"id":3758,"hitpoints":15,"name":"Fremennik shield"}
+{"id":3840,"hitpoints":225,"name":"Saradomin's holy book"}
+{"id":3844,"hitpoints":75,"name":"Guthix's book of balance"}
+{"id":4087,"hitpoints":1080,"name":"Dragon platelegs"}
+{"id":4089,"hitpoints":360,"name":"Mystic hat"}
+{"id":4091,"hitpoints":720,"name":"Mystic robe top"}
+{"id":4093,"hitpoints":540,"name":"Mystic robe bottom"}
+{"id":4095,"hitpoints":90,"name":"Mystic gloves"}
+{"id":4097,"hitpoints":90,"name":"Mystic boots"}
+{"id":4099,"hitpoints":360,"name":"Mystic hat"}
+{"id":4101,"hitpoints":720,"name":"Mystic robe top"}
+{"id":4103,"hitpoints":540,"name":"Mystic robe bottom"}
+{"id":4105,"hitpoints":90,"name":"Mystic gloves"}
+{"id":4107,"hitpoints":90,"name":"Mystic boots"}
+{"id":4109,"hitpoints":360,"name":"Mystic hat"}
+{"id":4111,"hitpoints":720,"name":"Mystic robe top"}
+{"id":4113,"hitpoints":540,"name":"Mystic robe bottom"}
+{"id":4115,"hitpoints":90,"name":"Mystic gloves"}
+{"id":4117,"hitpoints":90,"name":"Mystic boots"}
+{"id":4119,"hitpoints":3,"name":"Bronze boots"}
+{"id":4121,"hitpoints":30,"name":"Iron boots"}
+{"id":4123,"hitpoints":60,"name":"Steel boots"}
+{"id":4125,"hitpoints":75,"name":"Black boots"}
+{"id":4127,"hitpoints":90,"name":"Mithril boots"}
+{"id":4129,"hitpoints":120,"name":"Adamant boots"}
+{"id":4131,"hitpoints":150,"name":"Rune boots"}
+{"id":4156,"hitpoints":300,"name":"Mirror shield"}
+{"id":4224,"hitpoints":1050,"name":"New crystal shield"}
+{"id":4225,"hitpoints":1050,"name":"Crystal shield full"}
+{"id":4226,"hitpoints":1050,"name":"Crystal shield 9\/10"}
+{"id":4227,"hitpoints":1050,"name":"Crystal shield 8\/10"}
+{"id":4228,"hitpoints":1050,"name":"Crystal shield 7\/10"}
+{"id":4229,"hitpoints":1050,"name":"Crystal shield 6\/10"}
+{"id":4230,"hitpoints":1050,"name":"Crystal shield 5\/10"}
+{"id":4231,"hitpoints":1050,"name":"Crystal shield 4\/10"}
+{"id":4232,"hitpoints":1050,"name":"Crystal shield 3\/10"}
+{"id":4233,"hitpoints":1050,"name":"Crystal shield 2\/10"}
+{"id":4234,"hitpoints":1050,"name":"Crystal shield 1\/10"}
+{"id":4236,"hitpoints":150,"name":"Signed oak shieldbow"}
+{"id":4308,"hitpoints":3,"name":"H.a.m. gloves"}
+{"id":4315,"hitpoints":0,"name":"Team-1 cape"}
+{"id":4317,"hitpoints":0,"name":"Team-2 cape"}
+{"id":4319,"hitpoints":0,"name":"Team-3 cape"}
+{"id":4321,"hitpoints":0,"name":"Team-4 cape"}
+{"id":4323,"hitpoints":0,"name":"Team-5 cape"}
+{"id":4325,"hitpoints":0,"name":"Team-6 cape"}
+{"id":4327,"hitpoints":0,"name":"Team-7 cape"}
+{"id":4329,"hitpoints":0,"name":"Team-8 cape"}
+{"id":4331,"hitpoints":0,"name":"Team-9 cape"}
+{"id":4333,"hitpoints":0,"name":"Team-10 cape"}
+{"id":4335,"hitpoints":0,"name":"Team-11 cape"}
+{"id":4337,"hitpoints":0,"name":"Team-12 cape"}
+{"id":4339,"hitpoints":0,"name":"Team-13 cape"}
+{"id":4341,"hitpoints":0,"name":"Team-14 cape"}
+{"id":4343,"hitpoints":0,"name":"Team-15 cape"}
+{"id":4345,"hitpoints":0,"name":"Team-16 cape"}
+{"id":4347,"hitpoints":0,"name":"Team-17 cape"}
+{"id":4349,"hitpoints":0,"name":"Team-18 cape"}
+{"id":4351,"hitpoints":0,"name":"Team-19 cape"}
+{"id":4353,"hitpoints":0,"name":"Team-20 cape"}
+{"id":4355,"hitpoints":0,"name":"Team-21 cape"}
+{"id":4357,"hitpoints":0,"name":"Team-22 cape"}
+{"id":4359,"hitpoints":0,"name":"Team-23 cape"}
+{"id":4361,"hitpoints":0,"name":"Team-24 cape"}
+{"id":4363,"hitpoints":0,"name":"Team-25 cape"}
+{"id":4365,"hitpoints":0,"name":"Team-26 cape"}
+{"id":4367,"hitpoints":0,"name":"Team-27 cape"}
+{"id":4369,"hitpoints":0,"name":"Team-28 cape"}
+{"id":4371,"hitpoints":0,"name":"Team-29 cape"}
+{"id":4373,"hitpoints":0,"name":"Team-30 cape"}
+{"id":4375,"hitpoints":0,"name":"Team-31 cape"}
+{"id":4377,"hitpoints":0,"name":"Team-32 cape"}
+{"id":4379,"hitpoints":0,"name":"Team-33 cape"}
+{"id":4381,"hitpoints":0,"name":"Team-34 cape"}
+{"id":4383,"hitpoints":0,"name":"Team-35 cape"}
+{"id":4385,"hitpoints":0,"name":"Team-36 cape"}
+{"id":4387,"hitpoints":0,"name":"Team-37 cape"}
+{"id":4389,"hitpoints":0,"name":"Team-38 cape"}
+{"id":4391,"hitpoints":0,"name":"Team-39 cape"}
+{"id":4393,"hitpoints":0,"name":"Team-40 cape"}
+{"id":4395,"hitpoints":0,"name":"Team-41 cape"}
+{"id":4397,"hitpoints":0,"name":"Team-42 cape"}
+{"id":4399,"hitpoints":0,"name":"Team-43 cape"}
+{"id":4401,"hitpoints":0,"name":"Team-44 cape"}
+{"id":4403,"hitpoints":0,"name":"Team-45 cape"}
+{"id":4405,"hitpoints":0,"name":"Team-46 cape"}
+{"id":4407,"hitpoints":0,"name":"Team-47 cape"}
+{"id":4409,"hitpoints":0,"name":"Team-48 cape"}
+{"id":4411,"hitpoints":0,"name":"Team-49 cape"}
+{"id":4413,"hitpoints":0,"name":"Team-50 cape"}
+{"id":4551,"hitpoints":60,"name":"Spiny helmet"}
+{"id":4585,"hitpoints":1080,"name":"Dragon plateskirt"}
+{"id":4708,"hitpoints":840,"name":"Ahrim's hood"}
+{"id":4712,"hitpoints":1680,"name":"Ahrim's robe top"}
+{"id":4714,"hitpoints":1260,"name":"Ahrim's robe skirt"}
+{"id":4716,"hitpoints":840,"name":"Dharok's helm"}
+{"id":4720,"hitpoints":1680,"name":"Dharok's platebody"}
+{"id":4722,"hitpoints":1260,"name":"Dharok's platelegs"}
+{"id":4724,"hitpoints":840,"name":"Guthan's helm"}
+{"id":4728,"hitpoints":1680,"name":"Guthan's platebody"}
+{"id":4730,"hitpoints":1260,"name":"Guthan's chainskirt"}
+{"id":4732,"hitpoints":840,"name":"Karil's coif"}
+{"id":4736,"hitpoints":1680,"name":"Karil's top"}
+{"id":4738,"hitpoints":1260,"name":"Karil's skirt"}
+{"id":4745,"hitpoints":840,"name":"Torag's helm"}
+{"id":4749,"hitpoints":1680,"name":"Torag's platebody"}
+{"id":4751,"hitpoints":1260,"name":"Torag's platelegs"}
+{"id":4753,"hitpoints":840,"name":"Verac's helm"}
+{"id":4757,"hitpoints":1680,"name":"Verac's brassard"}
+{"id":4759,"hitpoints":1260,"name":"Verac's plateskirt"}
+{"id":4856,"hitpoints":840,"name":"Ahrim's hood 100"}
+{"id":4857,"hitpoints":840,"name":"Ahrim's hood 75"}
+{"id":4858,"hitpoints":840,"name":"Ahrim's hood 50"}
+{"id":4859,"hitpoints":840,"name":"Ahrim's hood 25"}
+{"id":4868,"hitpoints":1680,"name":"Ahrim's robe top 100"}
+{"id":4869,"hitpoints":1680,"name":"Ahrim's robe top 75"}
+{"id":4870,"hitpoints":1680,"name":"Ahrim's robe top 50"}
+{"id":4871,"hitpoints":1680,"name":"Ahrim's robe top 25"}
+{"id":4874,"hitpoints":1260,"name":"Ahrim's robe skirt 100"}
+{"id":4875,"hitpoints":1260,"name":"Ahrim's robe skirt 75"}
+{"id":4876,"hitpoints":1260,"name":"Ahrim's robe skirt 50"}
+{"id":4877,"hitpoints":1260,"name":"Ahrim's robe skirt 25"}
+{"id":4880,"hitpoints":840,"name":"Dharok's helm 100"}
+{"id":4881,"hitpoints":840,"name":"Dharok's helm 75"}
+{"id":4882,"hitpoints":840,"name":"Dharok's helm 50"}
+{"id":4883,"hitpoints":840,"name":"Dharok's helm 25"}
+{"id":4892,"hitpoints":1680,"name":"Dharok's platebody 100"}
+{"id":4893,"hitpoints":1680,"name":"Dharok's platebody 75"}
+{"id":4894,"hitpoints":1680,"name":"Dharok's platebody 50"}
+{"id":4895,"hitpoints":1680,"name":"Dharok's platebody 25"}
+{"id":4898,"hitpoints":1260,"name":"Dharok's platelegs 100"}
+{"id":4899,"hitpoints":1260,"name":"Dharok's platelegs 75"}
+{"id":4900,"hitpoints":1260,"name":"Dharok's platelegs 50"}
+{"id":4901,"hitpoints":1260,"name":"Dharok's platelegs 25"}
+{"id":4904,"hitpoints":840,"name":"Guthan's helm 100"}
+{"id":4905,"hitpoints":840,"name":"Guthan's helm 75"}
+{"id":4906,"hitpoints":840,"name":"Guthan's helm 50"}
+{"id":4907,"hitpoints":840,"name":"Guthan's helm 25"}
+{"id":4916,"hitpoints":1680,"name":"Guthan's platebody 100"}
+{"id":4917,"hitpoints":1680,"name":"Guthan's platebody 75"}
+{"id":4918,"hitpoints":1680,"name":"Guthan's platebody 50"}
+{"id":4919,"hitpoints":1680,"name":"Guthan's platebody 25"}
+{"id":4922,"hitpoints":1260,"name":"Guthan's chainskirt 100"}
+{"id":4923,"hitpoints":1260,"name":"Guthan's chainskirt 75"}
+{"id":4924,"hitpoints":1260,"name":"Guthan's chainskirt 50"}
+{"id":4925,"hitpoints":1260,"name":"Guthan's chainskirt 25"}
+{"id":4928,"hitpoints":840,"name":"Karil's coif 100"}
+{"id":4929,"hitpoints":840,"name":"Karil's coif 75"}
+{"id":4930,"hitpoints":840,"name":"Karil's coif 50"}
+{"id":4931,"hitpoints":840,"name":"Karil's coif 25"}
+{"id":4940,"hitpoints":1680,"name":"Karil's top 100"}
+{"id":4941,"hitpoints":1680,"name":"Karil's top 75"}
+{"id":4942,"hitpoints":1680,"name":"Karil's top 50"}
+{"id":4943,"hitpoints":1680,"name":"Karil's top 25"}
+{"id":4946,"hitpoints":1260,"name":"Karil's skirt 100"}
+{"id":4947,"hitpoints":1260,"name":"Karil's skirt 75"}
+{"id":4948,"hitpoints":1260,"name":"Karil's skirt 50"}
+{"id":4949,"hitpoints":1260,"name":"Karil's skirt 25"}
+{"id":4952,"hitpoints":840,"name":"Torag's helm 100"}
+{"id":4953,"hitpoints":840,"name":"Torag's helm 75"}
+{"id":4954,"hitpoints":840,"name":"Torag's helm 50"}
+{"id":4955,"hitpoints":840,"name":"Torag's helm 25"}
+{"id":4964,"hitpoints":1680,"name":"Torag's platebody 100"}
+{"id":4965,"hitpoints":1680,"name":"Torag's platebody 75"}
+{"id":4966,"hitpoints":1680,"name":"Torag's platebody 50"}
+{"id":4967,"hitpoints":1680,"name":"Torag's platebody 25"}
+{"id":4970,"hitpoints":1260,"name":"Torag's platelegs 100"}
+{"id":4971,"hitpoints":1260,"name":"Torag's platelegs 75"}
+{"id":4972,"hitpoints":1260,"name":"Torag's platelegs 50"}
+{"id":4973,"hitpoints":1260,"name":"Torag's platelegs 25"}
+{"id":4976,"hitpoints":840,"name":"Verac's helm 100"}
+{"id":4977,"hitpoints":840,"name":"Verac's helm 75"}
+{"id":4978,"hitpoints":840,"name":"Verac's helm 50"}
+{"id":4979,"hitpoints":840,"name":"Verac's helm 25"}
+{"id":4988,"hitpoints":1680,"name":"Verac's brassard 100"}
+{"id":4989,"hitpoints":1680,"name":"Verac's brassard 75"}
+{"id":4990,"hitpoints":1680,"name":"Verac's brassard 50"}
+{"id":4991,"hitpoints":1680,"name":"Verac's brassard 25"}
+{"id":4994,"hitpoints":1260,"name":"Verac's plateskirt 100"}
+{"id":4995,"hitpoints":1260,"name":"Verac's plateskirt 75"}
+{"id":4996,"hitpoints":1260,"name":"Verac's plateskirt 50"}
+{"id":4997,"hitpoints":1260,"name":"Verac's plateskirt 25"}
+{"id":5574,"hitpoints":300,"name":"Initiate sallet"}
+{"id":5575,"hitpoints":600,"name":"Initiate hauberk"}
+{"id":5576,"hitpoints":450,"name":"Initiate cuisse"}
+{"id":6128,"hitpoints":600,"name":"Rock-shell helm"}
+{"id":6129,"hitpoints":1200,"name":"Rock-shell plate"}
+{"id":6130,"hitpoints":900,"name":"Rock-shell legs"}
+{"id":6131,"hitpoints":600,"name":"Spined helm"}
+{"id":6133,"hitpoints":1200,"name":"Spined body"}
+{"id":6135,"hitpoints":900,"name":"Spined chaps"}
+{"id":6137,"hitpoints":600,"name":"Skeletal helm"}
+{"id":6139,"hitpoints":1200,"name":"Skeletal top"}
+{"id":6141,"hitpoints":900,"name":"Skeletal bottoms"}
+{"id":6143,"hitpoints":150,"name":"Spined boots"}
+{"id":6145,"hitpoints":150,"name":"Rock-shell boots"}
+{"id":6147,"hitpoints":150,"name":"Skeletal boots"}
+{"id":6149,"hitpoints":150,"name":"Spined gloves"}
+{"id":6151,"hitpoints":150,"name":"Rock-shell gloves"}
+{"id":6153,"hitpoints":150,"name":"Skeletal gloves"}
+{"id":6215,"hitpoints":375,"name":"Broodoo shield (10)"}
+{"id":6217,"hitpoints":375,"name":"Broodoo shield (9)"}
+{"id":6219,"hitpoints":375,"name":"Broodoo shield (8)"}
+{"id":6221,"hitpoints":375,"name":"Broodoo shield (7)"}
+{"id":6223,"hitpoints":375,"name":"Broodoo shield (6)"}
+{"id":6225,"hitpoints":375,"name":"Broodoo shield (5)"}
+{"id":6227,"hitpoints":375,"name":"Broodoo shield (4)"}
+{"id":6229,"hitpoints":375,"name":"Broodoo shield (3)"}
+{"id":6231,"hitpoints":375,"name":"Broodoo shield (2)"}
+{"id":6233,"hitpoints":375,"name":"Broodoo shield (1)"}
+{"id":6235,"hitpoints":375,"name":"Broodoo shield"}
+{"id":6237,"hitpoints":375,"name":"Broodoo shield (10)"}
+{"id":6239,"hitpoints":375,"name":"Broodoo shield (9)"}
+{"id":6241,"hitpoints":375,"name":"Broodoo shield (8)"}
+{"id":6243,"hitpoints":375,"name":"Broodoo shield (7)"}
+{"id":6245,"hitpoints":375,"name":"Broodoo shield (6)"}
+{"id":6247,"hitpoints":375,"name":"Broodoo shield (5)"}
+{"id":6249,"hitpoints":375,"name":"Broodoo shield (4)"}
+{"id":6251,"hitpoints":375,"name":"Broodoo shield (3)"}
+{"id":6253,"hitpoints":375,"name":"Broodoo shield (2)"}
+{"id":6255,"hitpoints":375,"name":"Broodoo shield (1)"}
+{"id":6257,"hitpoints":375,"name":"Broodoo shield"}
+{"id":6259,"hitpoints":375,"name":"Broodoo shield (10)"}
+{"id":6261,"hitpoints":375,"name":"Broodoo shield (9)"}
+{"id":6263,"hitpoints":375,"name":"Broodoo shield (8)"}
+{"id":6265,"hitpoints":375,"name":"Broodoo shield (7)"}
+{"id":6267,"hitpoints":375,"name":"Broodoo shield (6)"}
+{"id":6269,"hitpoints":375,"name":"Broodoo shield (5)"}
+{"id":6271,"hitpoints":375,"name":"Broodoo shield (4)"}
+{"id":6273,"hitpoints":375,"name":"Broodoo shield (3)"}
+{"id":6275,"hitpoints":375,"name":"Broodoo shield (2)"}
+{"id":6277,"hitpoints":375,"name":"Broodoo shield (1)"}
+{"id":6279,"hitpoints":375,"name":"Broodoo shield"}
+{"id":6322,"hitpoints":720,"name":"Snakeskin body"}
+{"id":6324,"hitpoints":540,"name":"Snakeskin chaps"}
+{"id":6326,"hitpoints":360,"name":"Snakeskin bandana"}
+{"id":6328,"hitpoints":90,"name":"Snakeskin boots"}
+{"id":6330,"hitpoints":90,"name":"Snakeskin vambraces"}
+{"id":6347,"hitpoints":4,"name":"Villager armband"}
+{"id":6359,"hitpoints":4,"name":"Villager armband"}
+{"id":6369,"hitpoints":4,"name":"Villager armband"}
+{"id":6379,"hitpoints":4,"name":"Villager armband"}
+{"id":6524,"hitpoints":900,"name":"Toktz-ket-xil"}
+{"id":6568,"hitpoints":0,"name":"Obsidian cape"}
+{"id":6570,"hitpoints":0,"name":"Fire cape"}
+{"id":6615,"hitpoints":552,"name":"White chainbody"}
+{"id":6617,"hitpoints":600,"name":"White platebody"}
+{"id":6619,"hitpoints":75,"name":"White boots"}
+{"id":6621,"hitpoints":276,"name":"White helm"}
+{"id":6623,"hitpoints":300,"name":"White full helm"}
+{"id":6625,"hitpoints":450,"name":"White platelegs"}
+{"id":6627,"hitpoints":450,"name":"White plateskirt"}
+{"id":6629,"hitpoints":75,"name":"White gloves"}
+{"id":6631,"hitpoints":375,"name":"White sq shield"}
+{"id":6633,"hitpoints":375,"name":"White kiteshield"}
+{"id":6731,"hitpoints":0,"name":"Seers' ring"}
+{"id":6733,"hitpoints":0,"name":"Archers' ring"}
+{"id":6735,"hitpoints":0,"name":"Warrior ring"}
+{"id":6809,"hitpoints":990,"name":"Granite legs"}
+{"id":6916,"hitpoints":1320,"name":"Infinity top"}
+{"id":6918,"hitpoints":660,"name":"Infinity hat"}
+{"id":6920,"hitpoints":165,"name":"Infinity boots"}
+{"id":6922,"hitpoints":165,"name":"Infinity gloves"}
+{"id":6924,"hitpoints":990,"name":"Infinity bottoms"}
+{"id":7159,"hitpoints":3,"name":"Insulated boots"}
+{"id":7332,"hitpoints":375,"name":"Black shield (h1)"}
+{"id":7334,"hitpoints":600,"name":"Adamant shield (h1)"}
+{"id":7336,"hitpoints":750,"name":"Rune shield (h1)"}
+{"id":7338,"hitpoints":375,"name":"Black shield (h2)"}
+{"id":7340,"hitpoints":600,"name":"Adamant shield (h2)"}
+{"id":7342,"hitpoints":750,"name":"Rune shield (h2)"}
+{"id":7344,"hitpoints":375,"name":"Black shield (h3)"}
+{"id":7346,"hitpoints":600,"name":"Adamant shield (h3)"}
+{"id":7348,"hitpoints":750,"name":"Rune shield (h3)"}
+{"id":7350,"hitpoints":375,"name":"Black shield (h4)"}
+{"id":7352,"hitpoints":600,"name":"Adamant shield (h4)"}
+{"id":7354,"hitpoints":750,"name":"Rune shield (h4)"}
+{"id":7356,"hitpoints":375,"name":"Black shield (h5)"}
+{"id":7358,"hitpoints":600,"name":"Adamant shield (h5)"}
+{"id":7360,"hitpoints":750,"name":"Rune shield (h5)"}
+{"id":7362,"hitpoints":480,"name":"Studded body (g)"}
+{"id":7364,"hitpoints":480,"name":"Studded body (t)"}
+{"id":7366,"hitpoints":360,"name":"Studded chaps (g)"}
+{"id":7368,"hitpoints":360,"name":"Studded chaps (t)"}
+{"id":7370,"hitpoints":960,"name":"Dragonhide body (g)"}
+{"id":7372,"hitpoints":960,"name":"Dragonhide body (t)"}
+{"id":7374,"hitpoints":1200,"name":"Dragonhide body (g)"}
+{"id":7376,"hitpoints":1200,"name":"Dragonhide body (t)"}
+{"id":7378,"hitpoints":720,"name":"Dragonhide chaps (g)"}
+{"id":7380,"hitpoints":720,"name":"Dragonhide chaps (t)"}
+{"id":7382,"hitpoints":900,"name":"Dragonhide chaps (g)"}
+{"id":7384,"hitpoints":900,"name":"Dragonhide chaps (t)"}
+{"id":7386,"hitpoints":90,"name":"Wizard robe skirt (g)"}
+{"id":7388,"hitpoints":90,"name":"Wizard robe skirt (t)"}
+{"id":7390,"hitpoints":120,"name":"Wizard robe top (g)"}
+{"id":7392,"hitpoints":120,"name":"Wizard robe top (t)"}
+{"id":7394,"hitpoints":60,"name":"Wizard hat (g)"}
+{"id":7396,"hitpoints":60,"name":"Wizard hat (t)"}
+{"id":7398,"hitpoints":810,"name":"Enchanted robe"}
+{"id":7399,"hitpoints":1080,"name":"Enchanted top"}
+{"id":7400,"hitpoints":540,"name":"Enchanted hat"}
+{"id":7453,"hitpoints":3,"name":"Culinaromancer's gloves 1"}
+{"id":7454,"hitpoints":9,"name":"Culinaromancer's gloves 2"}
+{"id":7455,"hitpoints":15,"name":"Culinaromancer's gloves 3"}
+{"id":7456,"hitpoints":21,"name":"Culinaromancer's gloves 4"}
+{"id":7457,"hitpoints":30,"name":"Culinaromancer's gloves 5"}
+{"id":7458,"hitpoints":45,"name":"Culinaromancer's gloves 6"}
+{"id":7459,"hitpoints":75,"name":"Culinaromancer's gloves 7"}
+{"id":7460,"hitpoints":105,"name":"Culinaromancer's gloves 8"}
+{"id":7461,"hitpoints":135,"name":"Culinaromancer's gloves 9"}
+{"id":7462,"hitpoints":165,"name":"Culinaromancer's gloves 10"}
+{"id":7917,"hitpoints":300,"name":"Ram skull helm"}
+{"id":8464,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8466,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8468,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8470,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8472,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8474,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8476,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8478,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8480,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8482,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8484,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8486,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8488,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8490,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8492,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8494,"hitpoints":600,"name":"Rune heraldic helm"}
+{"id":8682,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8684,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8686,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8688,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8690,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8692,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8694,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8696,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8698,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8700,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8702,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8704,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8706,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8708,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8710,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8712,"hitpoints":240,"name":"Steel heraldic helm"}
+{"id":8714,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8716,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8718,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8720,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8722,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8724,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8726,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8728,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8730,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8732,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8734,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8736,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8738,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8740,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8742,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8744,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":8746,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8748,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8750,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8752,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8754,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8756,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8758,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8760,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8762,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8764,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8766,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8768,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8770,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8772,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8774,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8776,"hitpoints":300,"name":"Steel kiteshield"}
+{"id":8839,"hitpoints":720,"name":"Void knight top"}
+{"id":8840,"hitpoints":540,"name":"Void knight robe"}
+{"id":8842,"hitpoints":90,"name":"Void knight gloves"}
+{"id":8844,"hitpoints":75,"name":"Bronze defender"}
+{"id":8845,"hitpoints":75,"name":"Iron defender"}
+{"id":8846,"hitpoints":150,"name":"Steel defender"}
+{"id":8847,"hitpoints":180,"name":"Black defender"}
+{"id":8848,"hitpoints":225,"name":"Mithril defender"}
+{"id":8849,"hitpoints":300,"name":"Adamant defender"}
+{"id":8850,"hitpoints":375,"name":"Rune defender"}
+{"id":8901,"hitpoints":120,"name":"Black mask (10)"}
+{"id":8903,"hitpoints":120,"name":"Black mask (9)"}
+{"id":8905,"hitpoints":120,"name":"Black mask (8)"}
+{"id":8907,"hitpoints":120,"name":"Black mask (7)"}
+{"id":8909,"hitpoints":120,"name":"Black mask (6)"}
+{"id":8911,"hitpoints":120,"name":"Black mask (5)"}
+{"id":8913,"hitpoints":120,"name":"Black mask (4)"}
+{"id":8915,"hitpoints":120,"name":"Black mask (3)"}
+{"id":8917,"hitpoints":120,"name":"Black mask (2)"}
+{"id":8919,"hitpoints":120,"name":"Black mask (1)"}
+{"id":8921,"hitpoints":120,"name":"Black mask"}
+{"id":8929,"hitpoints":3,"name":"Crabclaw and hook"}
+{"id":9005,"hitpoints":15,"name":"Fancy boots"}
+{"id":9006,"hitpoints":15,"name":"Fighting boots"}
+{"id":9096,"hitpoints":480,"name":"Lunar helm"}
+{"id":9097,"hitpoints":960,"name":"Lunar torso"}
+{"id":9098,"hitpoints":720,"name":"Lunar legs"}
+{"id":9099,"hitpoints":120,"name":"Lunar gloves"}
+{"id":9100,"hitpoints":120,"name":"Lunar boots"}
+{"id":9104,"hitpoints":0,"name":"Lunar ring"}
+{"id":9629,"hitpoints":60,"name":"Tyras helm"}
+{"id":9672,"hitpoints":360,"name":"Proselyte sallet"}
+{"id":9674,"hitpoints":720,"name":"Proselyte hauberk"}
+{"id":9676,"hitpoints":540,"name":"Proselyte cuisse"}
+{"id":9678,"hitpoints":540,"name":"Proselyte tasset"}
+{"id":9704,"hitpoints":15,"name":"Training shield"}
+{"id":9729,"hitpoints":12,"name":"Elemental helmet"}
+{"id":9731,"hitpoints":75,"name":"Mind shield"}
+{"id":9733,"hitpoints":60,"name":"Mind helmet"}
+{"id":9747,"hitpoints":0,"name":"Attack cape"}
+{"id":9748,"hitpoints":0,"name":"Attack cape (t)"}
+{"id":9750,"hitpoints":0,"name":"Strength cape"}
+{"id":9751,"hitpoints":0,"name":"Strength cape (t)"}
+{"id":9753,"hitpoints":0,"name":"Defence cape"}
+{"id":9754,"hitpoints":0,"name":"Defence cape (t)"}
+{"id":9756,"hitpoints":0,"name":"Ranging cape"}
+{"id":9757,"hitpoints":0,"name":"Ranging cape (t)"}
+{"id":9759,"hitpoints":0,"name":"Prayer cape"}
+{"id":9760,"hitpoints":0,"name":"Prayer cape (t)"}
+{"id":9762,"hitpoints":0,"name":"Magic cape"}
+{"id":9763,"hitpoints":0,"name":"Magic cape (t)"}
+{"id":9765,"hitpoints":0,"name":"Runecraft cape"}
+{"id":9766,"hitpoints":0,"name":"Runecraft cape (t)"}
+{"id":9768,"hitpoints":0,"name":"Constitution cape"}
+{"id":9769,"hitpoints":0,"name":"Constitution cape (t)"}
+{"id":9771,"hitpoints":0,"name":"Agility cape"}
+{"id":9772,"hitpoints":0,"name":"Agility cape (t)"}
+{"id":9774,"hitpoints":0,"name":"Herblore cape"}
+{"id":9775,"hitpoints":0,"name":"Herblore cape (t)"}
+{"id":9777,"hitpoints":0,"name":"Thieving cape"}
+{"id":9778,"hitpoints":0,"name":"Thieving cape (t)"}
+{"id":9780,"hitpoints":0,"name":"Crafting cape"}
+{"id":9781,"hitpoints":0,"name":"Crafting cape (t)"}
+{"id":9783,"hitpoints":0,"name":"Fletching cape"}
+{"id":9784,"hitpoints":0,"name":"Fletching cape (t)"}
+{"id":9786,"hitpoints":0,"name":"Slayer cape"}
+{"id":9787,"hitpoints":0,"name":"Slayer cape (t)"}
+{"id":9789,"hitpoints":0,"name":"Construct. cape"}
+{"id":9790,"hitpoints":0,"name":"Construct. cape (t)"}
+{"id":9792,"hitpoints":0,"name":"Mining cape"}
+{"id":9793,"hitpoints":0,"name":"Mining cape (t)"}
+{"id":9795,"hitpoints":0,"name":"Smithing cape"}
+{"id":9796,"hitpoints":0,"name":"Smithing cape (t)"}
+{"id":9798,"hitpoints":0,"name":"Fishing cape"}
+{"id":9799,"hitpoints":0,"name":"Fishing cape (t)"}
+{"id":9801,"hitpoints":0,"name":"Cooking cape"}
+{"id":9802,"hitpoints":0,"name":"Cooking cape (t)"}
+{"id":9804,"hitpoints":0,"name":"Firemaking cape"}
+{"id":9805,"hitpoints":0,"name":"Firemaking cape (t)"}
+{"id":9807,"hitpoints":0,"name":"Woodcutting cape"}
+{"id":9808,"hitpoints":0,"name":"Woodcut. cape (t)"}
+{"id":9810,"hitpoints":0,"name":"Farming cape"}
+{"id":9811,"hitpoints":0,"name":"Farming cape (t)"}
+{"id":9813,"hitpoints":0,"name":"Quest point cape"}
+{"id":9948,"hitpoints":0,"name":"Hunter cape"}
+{"id":9949,"hitpoints":0,"name":"Hunter cape (t)"}
+{"id":10077,"hitpoints":3,"name":"Spiky vambraces"}
+{"id":10079,"hitpoints":120,"name":"Green spiky vambraces"}
+{"id":10081,"hitpoints":150,"name":"Blue spiky vambraces"}
+{"id":10083,"hitpoints":165,"name":"Red spiky vambraces"}
+{"id":10085,"hitpoints":180,"name":"Black spiky vambraces"}
+{"id":10280,"hitpoints":300,"name":"Willow composite bow"}
+{"id":10282,"hitpoints":600,"name":"Yew composite bow"}
+{"id":10284,"hitpoints":750,"name":"Magic composite bow"}
+{"id":10286,"hitpoints":600,"name":"Rune helm (h1)"}
+{"id":10288,"hitpoints":600,"name":"Rune helm (h2)"}
+{"id":10290,"hitpoints":600,"name":"Rune helm (h3)"}
+{"id":10292,"hitpoints":600,"name":"Rune helm (h4)"}
+{"id":10294,"hitpoints":600,"name":"Rune helm (h5)"}
+{"id":10296,"hitpoints":480,"name":"Adamant helm (h1)"}
+{"id":10298,"hitpoints":480,"name":"Adamant helm (h2)"}
+{"id":10300,"hitpoints":480,"name":"Adamant helm (h3)"}
+{"id":10302,"hitpoints":480,"name":"Adamant helm (h4)"}
+{"id":10304,"hitpoints":480,"name":"Adamant helm (h5)"}
+{"id":10306,"hitpoints":300,"name":"Black helm (h1)"}
+{"id":10308,"hitpoints":300,"name":"Black helm (h2)"}
+{"id":10310,"hitpoints":300,"name":"Black helm (h3)"}
+{"id":10312,"hitpoints":300,"name":"Black helm (h4)"}
+{"id":10314,"hitpoints":300,"name":"Black helm (h5)"}
+{"id":10330,"hitpoints":1560,"name":"Third-age range top"}
+{"id":10332,"hitpoints":1170,"name":"Third-age range legs"}
+{"id":10334,"hitpoints":780,"name":"Third-age range coif"}
+{"id":10336,"hitpoints":195,"name":"Third-age vambraces"}
+{"id":10338,"hitpoints":1560,"name":"Third-age robe top"}
+{"id":10340,"hitpoints":1170,"name":"Third-age robe"}
+{"id":10342,"hitpoints":780,"name":"Third-age mage hat"}
+{"id":10346,"hitpoints":1170,"name":"Third-age platelegs"}
+{"id":10348,"hitpoints":1560,"name":"Third-age platebody"}
+{"id":10350,"hitpoints":780,"name":"Third-age full helmet"}
+{"id":10352,"hitpoints":975,"name":"Third-age kiteshield"}
+{"id":10368,"hitpoints":180,"name":"Zamorak vambraces"}
+{"id":10370,"hitpoints":1440,"name":"Zamorak body"}
+{"id":10372,"hitpoints":1080,"name":"Zamorak chaps"}
+{"id":10374,"hitpoints":720,"name":"Zamorak coif"}
+{"id":10376,"hitpoints":180,"name":"Guthix vambraces"}
+{"id":10378,"hitpoints":1440,"name":"Guthix body"}
+{"id":10380,"hitpoints":1080,"name":"Guthix chaps"}
+{"id":10382,"hitpoints":720,"name":"Guthix coif"}
+{"id":10384,"hitpoints":180,"name":"Saradomin vambraces"}
+{"id":10386,"hitpoints":1440,"name":"Saradomin body"}
+{"id":10388,"hitpoints":1080,"name":"Saradomin chaps"}
+{"id":10390,"hitpoints":720,"name":"Saradomin coif"}
+{"id":10452,"hitpoints":480,"name":"Saradomin mitre"}
+{"id":10454,"hitpoints":480,"name":"Guthix mitre"}
+{"id":10456,"hitpoints":480,"name":"Zamorak mitre"}
+{"id":10498,"hitpoints":0,"name":"Ava's attractor"}
+{"id":10547,"hitpoints":480,"name":"Healer hat"}
+{"id":10548,"hitpoints":480,"name":"Fighter hat"}
+{"id":10549,"hitpoints":480,"name":"Runner hat"}
+{"id":10550,"hitpoints":480,"name":"Ranger hat"}
+{"id":10551,"hitpoints":1200,"name":"Fighter torso"}
+{"id":10552,"hitpoints":120,"name":"Runner boots"}
+{"id":10553,"hitpoints":120,"name":"Penance gloves"}
+{"id":10554,"hitpoints":120,"name":"Penance gloves"}
+{"id":10555,"hitpoints":720,"name":"Penance skirt"}
+{"id":10564,"hitpoints":1320,"name":"Granite body"}
+{"id":10566,"hitpoints":0,"name":"Fire cape"}
+{"id":10589,"hitpoints":660,"name":"Granite helm"}
+{"id":10822,"hitpoints":600,"name":"Yak-hide armour (top)"}
+{"id":10824,"hitpoints":450,"name":"Yak-hide armour (legs)"}
+{"id":10826,"hitpoints":375,"name":"Fremennik round shield"}
+{"id":10828,"hitpoints":660,"name":"Helm of neitiznot"}
+{"id":10954,"hitpoints":600,"name":"Frog-leather body"}
+{"id":10956,"hitpoints":450,"name":"Frog-leather chaps"}
+{"id":10958,"hitpoints":75,"name":"Frog-leather boots"}
+{"id":11014,"hitpoints":0,"name":"Beacon ring"}
+{"id":11136,"hitpoints":15,"name":"Karamja gloves 1"}
+{"id":11138,"hitpoints":15,"name":"Karamja gloves 2"}
+{"id":11140,"hitpoints":15,"name":"Karamja gloves 3"}
+{"id":11200,"hitpoints":600,"name":"Dwarven helmet"}
+{"id":11235,"hitpoints":900,"name":"Dark bow"}
+{"id":11283,"hitpoints":1050,"name":"Dragonfire shield"}
+{"id":11284,"hitpoints":750,"name":"Dragonfire shield"}
+{"id":11335,"hitpoints":720,"name":"Dragon full helm"}
+{"id":11663,"hitpoints":516,"name":"Void mage helm"}
+{"id":11664,"hitpoints":516,"name":"Void ranger helm"}
+{"id":11665,"hitpoints":516,"name":"Void melee helm"}
+{"id":11718,"hitpoints":720,"name":"Armadyl helmet"}
+{"id":11720,"hitpoints":1440,"name":"Armadyl chestplate"}
+{"id":11722,"hitpoints":1080,"name":"Armadyl chainskirt"}
+{"id":11724,"hitpoints":1440,"name":"Bandos chestplate"}
+{"id":11726,"hitpoints":1080,"name":"Bandos tassets"}
+{"id":11728,"hitpoints":180,"name":"Bandos boots"}
+{"id":11732,"hitpoints":180,"name":"Dragon boots"}
+{"id":11756,"hitpoints":480,"name":"Varrock armour 1"}
+{"id":11757,"hitpoints":720,"name":"Varrock armour 2"}
+{"id":11758,"hitpoints":960,"name":"Varrock armour 3"}
+{"id":12169,"hitpoints":0,"name":"Summoning cape"}
+{"id":12170,"hitpoints":0,"name":"Summoning cape (t)"}
+{"id":12629,"hitpoints":15,"name":"Safety gloves"}
+{"id":12658,"hitpoints":480,"name":"Adamant full helm (e)"}
+{"id":12659,"hitpoints":480,"name":"Adamant full helm (charged)"}
+{"id":12660,"hitpoints":360,"name":"Snakeskin bandana (e)"}
+{"id":12661,"hitpoints":360,"name":"Snakeskin bandana (charged)"}
+{"id":12662,"hitpoints":480,"name":"Splitbark helm (e)"}
+{"id":12663,"hitpoints":480,"name":"Splitbark helm (charged)"}
+{"id":12664,"hitpoints":600,"name":"Rune full helm (e)"}
+{"id":12665,"hitpoints":600,"name":"Rune full helm (charged)"}
+{"id":12666,"hitpoints":696,"name":"Dragon helm (e)"}
+{"id":12667,"hitpoints":696,"name":"Dragon helm (charged)"}
+{"id":12668,"hitpoints":480,"name":"Lunar helm (e)"}
+{"id":12669,"hitpoints":480,"name":"Lunar helm (charged)"}
+{"id":12670,"hitpoints":720,"name":"Armadyl helmet (e)"}
+{"id":12671,"hitpoints":720,"name":"Armadyl helmet (charged)"}
+{"id":12672,"hitpoints":540,"name":"Archer helm (e)"}
+{"id":12673,"hitpoints":540,"name":"Archer helm (charged)"}
+{"id":12674,"hitpoints":540,"name":"Berserker helm (e)"}
+{"id":12675,"hitpoints":540,"name":"Berserker helm (charged)"}
+{"id":12676,"hitpoints":540,"name":"Warrior helm (e)"}
+{"id":12677,"hitpoints":540,"name":"Warrior helm (charged)"}
+{"id":12678,"hitpoints":540,"name":"Farseer helm (e)"}
+{"id":12679,"hitpoints":540,"name":"Farseer helm (charged)"}
+{"id":12680,"hitpoints":660,"name":"Helm of neitiznot (e)"}
+{"id":12681,"hitpoints":660,"name":"Helm of neitiznot (charged)"}
+{"id":12866,"hitpoints":720,"name":"Battle hood 100"}
+{"id":12867,"hitpoints":720,"name":"Battle hood 80"}
+{"id":12868,"hitpoints":720,"name":"Battle hood 60"}
+{"id":12869,"hitpoints":720,"name":"Battle hood 40"}
+{"id":12870,"hitpoints":720,"name":"Battle hood 20"}
+{"id":12873,"hitpoints":1440,"name":"Battle robe top 100"}
+{"id":12874,"hitpoints":1440,"name":"Battle robe top 80"}
+{"id":12875,"hitpoints":1440,"name":"Battle robe top 60"}
+{"id":12876,"hitpoints":1440,"name":"Battle robe top 40"}
+{"id":12877,"hitpoints":1440,"name":"Battle robe top 20"}
+{"id":12880,"hitpoints":1080,"name":"Battle robe bottom 100"}
+{"id":12881,"hitpoints":1080,"name":"Battle robe bottom 80"}
+{"id":12882,"hitpoints":1080,"name":"Battle robe bottom 60"}
+{"id":12883,"hitpoints":1080,"name":"Battle robe bottom 40"}
+{"id":12884,"hitpoints":1080,"name":"Battle robe bottom 20"}
+{"id":12887,"hitpoints":240,"name":"Druidic mage hood 100"}
+{"id":12888,"hitpoints":240,"name":"Druidic mage hood 80"}
+{"id":12889,"hitpoints":240,"name":"Druidic mage hood 60"}
+{"id":12890,"hitpoints":240,"name":"Druidic mage hood 40"}
+{"id":12891,"hitpoints":240,"name":"Druidic mage hood 20"}
+{"id":12892,"hitpoints":240,"name":"Druidic mage hood 0"}
+{"id":12894,"hitpoints":480,"name":"Druidic mage top 100"}
+{"id":12895,"hitpoints":480,"name":"Druidic mage top 80"}
+{"id":12896,"hitpoints":480,"name":"Druidic mage top 60"}
+{"id":12897,"hitpoints":480,"name":"Druidic mage top 40"}
+{"id":12898,"hitpoints":480,"name":"Druidic mage top 20"}
+{"id":12901,"hitpoints":360,"name":"Druidic mage bottom 100"}
+{"id":12902,"hitpoints":360,"name":"Druidic mage bottom 80"}
+{"id":12903,"hitpoints":360,"name":"Druidic mage bottom 60"}
+{"id":12904,"hitpoints":360,"name":"Druidic mage bottom 40"}
+{"id":12905,"hitpoints":360,"name":"Druidic mage bottom 20"}
+{"id":12908,"hitpoints":645,"name":"Adamant spikeshield 100"}
+{"id":12909,"hitpoints":645,"name":"Adamant spikeshield 80"}
+{"id":12910,"hitpoints":645,"name":"Adamant spikeshield 60"}
+{"id":12911,"hitpoints":645,"name":"Adamant spikeshield 40"}
+{"id":12912,"hitpoints":645,"name":"Adamant spikeshield 20"}
+{"id":12915,"hitpoints":675,"name":"Adamant berserker shield 100"}
+{"id":12916,"hitpoints":675,"name":"Adamant berserker shield 80"}
+{"id":12917,"hitpoints":675,"name":"Adamant berserker shield 60"}
+{"id":12918,"hitpoints":675,"name":"Adamant berserker shield 40"}
+{"id":12919,"hitpoints":675,"name":"Adamant berserker shield 20"}
+{"id":12922,"hitpoints":795,"name":"Rune spikeshield 100"}
+{"id":12923,"hitpoints":795,"name":"Rune spikeshield 80"}
+{"id":12924,"hitpoints":795,"name":"Rune spikeshield 60"}
+{"id":12925,"hitpoints":795,"name":"Rune spikeshield 40"}
+{"id":12926,"hitpoints":795,"name":"Rune spikeshield 20"}
+{"id":12929,"hitpoints":825,"name":"Rune berserker shield 100"}
+{"id":12930,"hitpoints":825,"name":"Rune berserker shield 80"}
+{"id":12931,"hitpoints":825,"name":"Rune berserker shield 60"}
+{"id":12932,"hitpoints":825,"name":"Rune berserker shield 40"}
+{"id":12933,"hitpoints":825,"name":"Rune berserker shield 20"}
+{"id":12936,"hitpoints":480,"name":"Green d'hide coif 100"}
+{"id":12937,"hitpoints":480,"name":"Green d'hide coif 80"}
+{"id":12938,"hitpoints":480,"name":"Green d'hide coif 60"}
+{"id":12939,"hitpoints":480,"name":"Green d'hide coif 40"}
+{"id":12940,"hitpoints":480,"name":"Green d'hide coif 20"}
+{"id":12943,"hitpoints":600,"name":"Blue d'hide coif 100"}
+{"id":12944,"hitpoints":600,"name":"Blue d'hide coif 80"}
+{"id":12945,"hitpoints":600,"name":"Blue d'hide coif 60"}
+{"id":12946,"hitpoints":600,"name":"Blue d'hide coif 40"}
+{"id":12947,"hitpoints":600,"name":"Blue d'hide coif 20"}
+{"id":12950,"hitpoints":660,"name":"Red d'hide coif 100"}
+{"id":12951,"hitpoints":660,"name":"Red d'hide coif 80"}
+{"id":12952,"hitpoints":660,"name":"Red d'hide coif 60"}
+{"id":12953,"hitpoints":660,"name":"Red d'hide coif 40"}
+{"id":12954,"hitpoints":660,"name":"Red d'hide coif 20"}
+{"id":12957,"hitpoints":720,"name":"Black d'hide coif 100"}
+{"id":12958,"hitpoints":720,"name":"Black d'hide coif 80"}
+{"id":12959,"hitpoints":720,"name":"Black d'hide coif 60"}
+{"id":12960,"hitpoints":720,"name":"Black d'hide coif 40"}
+{"id":12961,"hitpoints":720,"name":"Black d'hide coif 20"}
+{"id":12964,"hitpoints":240,"name":"Combat hood 100"}
+{"id":12965,"hitpoints":240,"name":"Combat hood 80"}
+{"id":12966,"hitpoints":240,"name":"Combat hood 60"}
+{"id":12967,"hitpoints":240,"name":"Combat hood 40"}
+{"id":12968,"hitpoints":240,"name":"Combat hood 20"}
+{"id":12971,"hitpoints":480,"name":"Combat robe top 100"}
+{"id":12972,"hitpoints":480,"name":"Combat robe top 80"}
+{"id":12973,"hitpoints":480,"name":"Combat robe top 60"}
+{"id":12974,"hitpoints":480,"name":"Combat robe top 40"}
+{"id":12975,"hitpoints":480,"name":"Combat robe top 20"}
+{"id":12978,"hitpoints":360,"name":"Combat robe bottom 100"}
+{"id":12979,"hitpoints":360,"name":"Combat robe bottom 80"}
+{"id":12980,"hitpoints":360,"name":"Combat robe bottom 60"}
+{"id":12981,"hitpoints":360,"name":"Combat robe bottom 40"}
+{"id":12982,"hitpoints":360,"name":"Combat robe bottom 20"}
+{"id":12985,"hitpoints":15,"name":"Bronze gauntlets"}
+{"id":12988,"hitpoints":30,"name":"Iron gauntlets"}
+{"id":12991,"hitpoints":60,"name":"Steel gauntlets"}
+{"id":12994,"hitpoints":75,"name":"Black gauntlets"}
+{"id":12997,"hitpoints":90,"name":"Mithril gauntlets"}
+{"id":13000,"hitpoints":120,"name":"Adamant gauntlets"}
+{"id":13003,"hitpoints":150,"name":"Rune gauntlets"}
+{"id":13006,"hitpoints":180,"name":"Dragon gauntlets"}
+{"id":13105,"hitpoints":60,"name":"Spiked helmet"}
+{"id":13263,"hitpoints":120,"name":"Slayer helmet"}
+{"id":13405,"hitpoints":900,"name":"Dark bow"}
+{"id":13407,"hitpoints":540,"name":"Archer helm"}
+{"id":13408,"hitpoints":540,"name":"Berserker helm"}
+{"id":13409,"hitpoints":540,"name":"Warrior helm"}
+{"id":13410,"hitpoints":540,"name":"Farseer helm"}
+{"id":13411,"hitpoints":600,"name":"Rock-shell helm"}
+{"id":13412,"hitpoints":1200,"name":"Rock-shell plate"}
+{"id":13413,"hitpoints":900,"name":"Rock-shell legs"}
+{"id":13414,"hitpoints":600,"name":"Spined helm"}
+{"id":13415,"hitpoints":1200,"name":"Spined body"}
+{"id":13416,"hitpoints":900,"name":"Spined chaps"}
+{"id":13417,"hitpoints":600,"name":"Skeletal helm"}
+{"id":13418,"hitpoints":1200,"name":"Skeletal top"}
+{"id":13419,"hitpoints":900,"name":"Skeletal bottoms"}
+{"id":13420,"hitpoints":150,"name":"Spined boots"}
+{"id":13421,"hitpoints":150,"name":"Rock-shell boots"}
+{"id":13422,"hitpoints":150,"name":"Skeletal boots"}
+{"id":13423,"hitpoints":150,"name":"Spined gloves"}
+{"id":13424,"hitpoints":150,"name":"Rock-shell gloves"}
+{"id":13425,"hitpoints":150,"name":"Skeletal gloves"}
+{"id":13426,"hitpoints":0,"name":"Seers' ring"}
+{"id":13427,"hitpoints":0,"name":"Archers' ring"}
+{"id":13428,"hitpoints":0,"name":"Warrior ring"}
+{"id":13443,"hitpoints":0,"name":"Obsidian cape"}
+{"id":13449,"hitpoints":720,"name":"Dragon full helm"}
+{"id":13455,"hitpoints":720,"name":"Armadyl helmet"}
+{"id":13456,"hitpoints":1440,"name":"Armadyl chestplate"}
+{"id":13457,"hitpoints":1080,"name":"Armadyl chainskirt"}
+{"id":13458,"hitpoints":1440,"name":"Bandos chestplate"}
+{"id":13459,"hitpoints":1080,"name":"Bandos tassets"}
+{"id":13460,"hitpoints":180,"name":"Bandos boots"}
+{"id":13462,"hitpoints":180,"name":"Dragon boots"}
+{"id":13481,"hitpoints":1392,"name":"Dragon chainbody"}
+{"id":13482,"hitpoints":1200,"name":"Rune platebody"}
+{"id":13483,"hitpoints":960,"name":"Green d'hide body"}
+{"id":13484,"hitpoints":1200,"name":"Blue d'hide body"}
+{"id":13485,"hitpoints":1320,"name":"Red d'hide body"}
+{"id":13486,"hitpoints":1440,"name":"Black d'hide body"}
+{"id":13487,"hitpoints":900,"name":"Rune platelegs"}
+{"id":13488,"hitpoints":1080,"name":"Dragon platelegs"}
+{"id":13489,"hitpoints":900,"name":"Rune plateskirt"}
+{"id":13490,"hitpoints":1080,"name":"Dragon plateskirt"}
+{"id":13491,"hitpoints":720,"name":"Green d'hide chaps"}
+{"id":13492,"hitpoints":900,"name":"Blue d'hide chaps"}
+{"id":13493,"hitpoints":990,"name":"Red d'hide chaps"}
+{"id":13494,"hitpoints":1080,"name":"Black d'hide chaps"}
+{"id":13495,"hitpoints":696,"name":"Dragon helm"}
+{"id":13496,"hitpoints":600,"name":"Rune full helm"}
+{"id":13497,"hitpoints":120,"name":"Green d'hide vambraces"}
+{"id":13498,"hitpoints":150,"name":"Blue d'hide vambraces"}
+{"id":13499,"hitpoints":165,"name":"Red d'hide vambraces"}
+{"id":13500,"hitpoints":180,"name":"Black d'hide vambraces"}
+{"id":13501,"hitpoints":480,"name":"Splitbark helm"}
+{"id":13502,"hitpoints":960,"name":"Splitbark body"}
+{"id":13503,"hitpoints":720,"name":"Splitbark legs"}
+{"id":13504,"hitpoints":120,"name":"Splitbark gauntlets"}
+{"id":13505,"hitpoints":120,"name":"Splitbark boots"}
+{"id":13506,"hitpoints":870,"name":"Dragon sq shield"}
+{"id":13507,"hitpoints":750,"name":"Rune kiteshield"}
+{"id":13508,"hitpoints":360,"name":"Mystic hat"}
+{"id":13509,"hitpoints":720,"name":"Mystic robe top"}
+{"id":13510,"hitpoints":540,"name":"Mystic robe bottom"}
+{"id":13511,"hitpoints":90,"name":"Mystic gloves"}
+{"id":13512,"hitpoints":90,"name":"Mystic boots"}
+{"id":13513,"hitpoints":360,"name":"Mystic hat"}
+{"id":13514,"hitpoints":720,"name":"Mystic robe top"}
+{"id":13515,"hitpoints":540,"name":"Mystic robe bottom"}
+{"id":13516,"hitpoints":90,"name":"Mystic gloves"}
+{"id":13517,"hitpoints":90,"name":"Mystic boots"}
+{"id":13518,"hitpoints":360,"name":"Mystic hat"}
+{"id":13519,"hitpoints":720,"name":"Mystic robe top"}
+{"id":13520,"hitpoints":540,"name":"Mystic robe bottom"}
+{"id":13521,"hitpoints":90,"name":"Mystic gloves"}
+{"id":13522,"hitpoints":90,"name":"Mystic boots"}
+{"id":13523,"hitpoints":450,"name":"Maple shieldbow"}
+{"id":13525,"hitpoints":600,"name":"Yew shieldbow"}
+{"id":13527,"hitpoints":750,"name":"Magic shieldbow"}
+{"id":13541,"hitpoints":300,"name":"Willow composite bow"}
+{"id":13542,"hitpoints":600,"name":"Yew composite bow"}
+{"id":13543,"hitpoints":750,"name":"Magic composite bow"}
+{"id":13544,"hitpoints":1560,"name":"Third-age range top"}
+{"id":13545,"hitpoints":1170,"name":"Third-age range legs"}
+{"id":13546,"hitpoints":780,"name":"Third-age range coif"}
+{"id":13547,"hitpoints":195,"name":"Third-age vambraces"}
+{"id":13548,"hitpoints":1560,"name":"Third-age robe top"}
+{"id":13549,"hitpoints":1170,"name":"Third-age robe"}
+{"id":13550,"hitpoints":780,"name":"Third-age mage hat"}
+{"id":13552,"hitpoints":1170,"name":"Third-age platelegs"}
+{"id":13553,"hitpoints":1560,"name":"Third-age platebody"}
+{"id":13554,"hitpoints":780,"name":"Third-age full helmet"}
+{"id":13555,"hitpoints":975,"name":"Third-age kiteshield"}
+{"id":13556,"hitpoints":120,"name":"Ranger boots"}
+{"id":13557,"hitpoints":60,"name":"Wizard boots"}
+{"id":13558,"hitpoints":480,"name":"Robin hood hat"}
+{"id":13734,"hitpoints":600,"name":"Spirit shield"}
+{"id":13736,"hitpoints":1050,"name":"Blessed spirit shield"}
+{"id":13738,"hitpoints":1125,"name":"Arcane spirit shield"}
+{"id":13740,"hitpoints":1125,"name":"Divine spirit shield"}
+{"id":13742,"hitpoints":1125,"name":"Elysian spirit shield"}
+{"id":13744,"hitpoints":1125,"name":"Spectral spirit shield"}
+{"id":13781,"hitpoints":1152,"name":"Rune chainbody"}
+{"id":13782,"hitpoints":150,"name":"Rune boots"}
+{"id":13783,"hitpoints":576,"name":"Rune helm"}
+{"id":13784,"hitpoints":660,"name":"Granite helm"}
+{"id":13785,"hitpoints":1320,"name":"Granite body"}
+{"id":13786,"hitpoints":990,"name":"Granite legs"}
+{"id":13787,"hitpoints":720,"name":"Rune sq shield"}
+{"id":13788,"hitpoints":825,"name":"Granite shield"}
+{"id":13800,"hitpoints":1200,"name":"Rune platebody (g)"}
+{"id":13801,"hitpoints":900,"name":"Rune platelegs (g)"}
+{"id":13802,"hitpoints":900,"name":"Rune plateskirt (g)"}
+{"id":13803,"hitpoints":600,"name":"Rune full helm (g)"}
+{"id":13804,"hitpoints":750,"name":"Rune kiteshield (g)"}
+{"id":13805,"hitpoints":1200,"name":"Rune platebody (t)"}
+{"id":13806,"hitpoints":900,"name":"Rune platelegs (t)"}
+{"id":13807,"hitpoints":900,"name":"Rune plateskirt (t)"}
+{"id":13808,"hitpoints":600,"name":"Rune full helm (t)"}
+{"id":13809,"hitpoints":750,"name":"Rune kiteshield (t)"}
+{"id":13820,"hitpoints":1200,"name":"Zamorak platebody"}
+{"id":13821,"hitpoints":900,"name":"Zamorak platelegs"}
+{"id":13822,"hitpoints":900,"name":"Zamorak plateskirt"}
+{"id":13823,"hitpoints":600,"name":"Zamorak full helm"}
+{"id":13824,"hitpoints":750,"name":"Zamorak kiteshield"}
+{"id":13825,"hitpoints":1200,"name":"Saradomin platebody"}
+{"id":13826,"hitpoints":900,"name":"Saradomin platelegs"}
+{"id":13827,"hitpoints":900,"name":"Saradomin plateskirt"}
+{"id":13828,"hitpoints":600,"name":"Saradomin full helm"}
+{"id":13829,"hitpoints":750,"name":"Saradomin kiteshield"}
+{"id":13830,"hitpoints":1200,"name":"Guthix platebody"}
+{"id":13831,"hitpoints":900,"name":"Guthix platelegs"}
+{"id":13832,"hitpoints":900,"name":"Guthix plateskirt"}
+{"id":13833,"hitpoints":600,"name":"Guthix full helm"}
+{"id":13834,"hitpoints":750,"name":"Guthix kiteshield"}
+{"id":13835,"hitpoints":1200,"name":"Gilded platebody"}
+{"id":13836,"hitpoints":900,"name":"Gilded platelegs"}
+{"id":13837,"hitpoints":900,"name":"Gilded plateskirt"}
+{"id":13838,"hitpoints":600,"name":"Gilded full helm"}
+{"id":13839,"hitpoints":750,"name":"Gilded kiteshield"}
+{"id":13858,"hitpoints":1872,"name":"Zuriel's robe top"}
+{"id":13860,"hitpoints":1872,"name":"Zuriel's robe top (deg)"}
+{"id":13861,"hitpoints":1404,"name":"Zuriel's robe bottom"}
+{"id":13863,"hitpoints":1404,"name":"Zuriel's robe bottom (deg)"}
+{"id":13864,"hitpoints":936,"name":"Zuriel's hood"}
+{"id":13866,"hitpoints":936,"name":"Zuriel's hood (deg)"}
+{"id":13870,"hitpoints":1872,"name":"Morrigan's leather body"}
+{"id":13872,"hitpoints":1872,"name":"Morrigan's leather body (deg)"}
+{"id":13873,"hitpoints":1404,"name":"Morrigan's leather chaps"}
+{"id":13875,"hitpoints":1404,"name":"Morrigan's leather chaps (deg)"}
+{"id":13876,"hitpoints":936,"name":"Morrigan's coif"}
+{"id":13878,"hitpoints":936,"name":"Morrigan's coif (deg)"}
+{"id":13884,"hitpoints":1872,"name":"Statius's platebody"}
+{"id":13886,"hitpoints":1872,"name":"Statius's platebody (deg)"}
+{"id":13887,"hitpoints":1824,"name":"Vesta's chainbody"}
+{"id":13889,"hitpoints":1824,"name":"Vesta's chainbody (deg)"}
+{"id":13890,"hitpoints":1404,"name":"Statius's platelegs"}
+{"id":13892,"hitpoints":1404,"name":"Statius's platelegs (deg)"}
+{"id":13893,"hitpoints":1404,"name":"Vesta's plateskirt"}
+{"id":13895,"hitpoints":1404,"name":"Vesta's plateskirt (deg)"}
+{"id":13896,"hitpoints":936,"name":"Statius's full helm"}
+{"id":13898,"hitpoints":936,"name":"Statius' full helm (deg)"}
+{"id":13908,"hitpoints":480,"name":"Corrupt statius's platebody"}
+{"id":13910,"hitpoints":480,"name":"Corrupt statius's platebody (deg)"}
+{"id":13911,"hitpoints":480,"name":"Corrupt vesta's chainbody"}
+{"id":13913,"hitpoints":480,"name":"Corrupt vesta's chainbody (deg)"}
+{"id":13914,"hitpoints":360,"name":"Corrupt statius's platelegs"}
+{"id":13916,"hitpoints":360,"name":"Corrupt statius's platelegs (deg)"}
+{"id":13917,"hitpoints":360,"name":"Corrupt vesta's plateskirt"}
+{"id":13919,"hitpoints":360,"name":"Corrupt vesta's plateskirt (deg)"}
+{"id":13920,"hitpoints":240,"name":"Corrupt statius's full helm"}
+{"id":13922,"hitpoints":240,"name":"Corrupt statius' full helm (deg)"}
+{"id":13932,"hitpoints":480,"name":"Corrupt zuriel's robe top"}
+{"id":13934,"hitpoints":480,"name":"Corrupt zuriel's robe top (deg)"}
+{"id":13935,"hitpoints":360,"name":"Corrupt zuriel's robe bottom"}
+{"id":13937,"hitpoints":360,"name":"Corrupt zuriel's robe bottom (deg)"}
+{"id":13938,"hitpoints":240,"name":"Corrupt zuriel's hood"}
+{"id":13940,"hitpoints":240,"name":"Corrupt zuriel's hood (deg)"}
+{"id":13944,"hitpoints":480,"name":"Corrupt morrigan's leather body"}
+{"id":13946,"hitpoints":480,"name":"Corrupt morrigan's leather body (deg)"}
+{"id":13947,"hitpoints":360,"name":"Corrupt morrigan's leather chaps"}
+{"id":13949,"hitpoints":360,"name":"Corrupt morrigan's leather chaps (deg)"}
+{"id":13950,"hitpoints":240,"name":"Corrupt morrigan's coif"}
+{"id":13952,"hitpoints":240,"name":"Corrupt morrigan's coif (deg)"}
+{"id":13958,"hitpoints":720,"name":"Corrupt dragon chainbody"}
+{"id":13960,"hitpoints":720,"name":"Corrupt dragon chainbody (deg)"}
+{"id":13961,"hitpoints":696,"name":"Corrupt dragon helm"}
+{"id":13963,"hitpoints":696,"name":"Corrupt dragon helm (deg)"}
+{"id":13964,"hitpoints":900,"name":"Corrupt dragon sq shield"}
+{"id":13966,"hitpoints":900,"name":"Corrupt dragon sq shield (deg)"}
+{"id":13967,"hitpoints":1080,"name":"Corrupt dragon plateskirt"}
+{"id":13969,"hitpoints":1080,"name":"Corrupt dragon plateskirt (deg)"}
+{"id":13970,"hitpoints":1080,"name":"Corrupt dragon platelegs"}
+{"id":13972,"hitpoints":1080,"name":"Corrupt dragon platelegs (deg)"}
+{"id":14094,"hitpoints":1200,"name":"Sacred clay platebody"}
+{"id":14095,"hitpoints":900,"name":"Sacred clay platelegs"}
+{"id":14096,"hitpoints":600,"name":"Sacred clay helm"}
+{"id":14114,"hitpoints":1200,"name":"Sacred clay robe top"}
+{"id":14115,"hitpoints":900,"name":"Sacred clay robe bottom"}
+{"id":14116,"hitpoints":600,"name":"Sacred clay hat"}
+{"id":14118,"hitpoints":1200,"name":"Sacred clay body"}
+{"id":14119,"hitpoints":900,"name":"Sacred clay chaps"}
+{"id":14120,"hitpoints":600,"name":"Sacred clay coif"}
+{"id":14317,"hitpoints":240,"name":"Robe top (class 1)"}
+{"id":14319,"hitpoints":480,"name":"Robe top (class 2)"}
+{"id":14321,"hitpoints":960,"name":"Robe top (class 3)"}
+{"id":14323,"hitpoints":1440,"name":"Robe top (class 4)"}
+{"id":14325,"hitpoints":1920,"name":"Robe top (class 5)"}
+{"id":14327,"hitpoints":180,"name":"Robe bottom (class 1)"}
+{"id":14329,"hitpoints":360,"name":"Robe bottom (class 2)"}
+{"id":14331,"hitpoints":720,"name":"Robe bottom (class 3)"}
+{"id":14333,"hitpoints":1080,"name":"Robe bottom (class 4)"}
+{"id":14335,"hitpoints":1440,"name":"Robe bottom (class 5)"}
+{"id":14337,"hitpoints":120,"name":"Hat (class 1)"}
+{"id":14339,"hitpoints":240,"name":"Hat (class 2)"}
+{"id":14341,"hitpoints":480,"name":"Hat (class 3)"}
+{"id":14343,"hitpoints":720,"name":"Hat (class 4)"}
+{"id":14345,"hitpoints":960,"name":"Hat (class 5)"}
+{"id":14347,"hitpoints":240,"name":"Platebody (class 1)"}
+{"id":14349,"hitpoints":480,"name":"Platebody (class 2)"}
+{"id":14351,"hitpoints":960,"name":"Platebody (class 3)"}
+{"id":14353,"hitpoints":1440,"name":"Platebody (class 4)"}
+{"id":14355,"hitpoints":1920,"name":"Platebody (class 5)"}
+{"id":14357,"hitpoints":180,"name":"Platelegs (class 1)"}
+{"id":14359,"hitpoints":360,"name":"Platelegs (class 2)"}
+{"id":14361,"hitpoints":720,"name":"Platelegs (class 3)"}
+{"id":14363,"hitpoints":1080,"name":"Platelegs (class 4)"}
+{"id":14365,"hitpoints":1440,"name":"Platelegs (class 5)"}
+{"id":14367,"hitpoints":120,"name":"Helm (class 1)"}
+{"id":14369,"hitpoints":240,"name":"Helm (class 2)"}
+{"id":14371,"hitpoints":480,"name":"Helm (class 3)"}
+{"id":14373,"hitpoints":720,"name":"Helm (class 4)"}
+{"id":14375,"hitpoints":960,"name":"Helm (class 5)"}
+{"id":14391,"hitpoints":240,"name":"Leather body (class 1)"}
+{"id":14393,"hitpoints":480,"name":"Leather body (class 2)"}
+{"id":14395,"hitpoints":960,"name":"Leather body (class 3)"}
+{"id":14397,"hitpoints":1440,"name":"Leather body (class 4)"}
+{"id":14399,"hitpoints":1920,"name":"Leather body (class 5)"}
+{"id":14401,"hitpoints":180,"name":"Chaps (class 1)"}
+{"id":14403,"hitpoints":360,"name":"Chaps (class 2)"}
+{"id":14405,"hitpoints":720,"name":"Chaps (class 3)"}
+{"id":14407,"hitpoints":1080,"name":"Chaps (class 4)"}
+{"id":14409,"hitpoints":1440,"name":"Chaps (class 5)"}
+{"id":14411,"hitpoints":120,"name":"Coif (class 1)"}
+{"id":14413,"hitpoints":240,"name":"Coif (class 2)"}
+{"id":14415,"hitpoints":480,"name":"Coif (class 3)"}
+{"id":14417,"hitpoints":720,"name":"Coif (class 4)"}
+{"id":14419,"hitpoints":960,"name":"Coif (class 5)"}
+{"id":14479,"hitpoints":1440,"name":"Dragon platebody"}
+{"id":14481,"hitpoints":1440,"name":"Dragon platebody"}
+{"id":14490,"hitpoints":720,"name":"Elite black platelegs"}
+{"id":14492,"hitpoints":960,"name":"Elite black platebody"}
+{"id":14494,"hitpoints":480,"name":"Elite black full helm"}
+{"id":14497,"hitpoints":960,"name":"Dagon'hai robe top"}
+{"id":14499,"hitpoints":480,"name":"Dagon'hai hat"}
+{"id":14501,"hitpoints":720,"name":"Dagon'hai robe bottom"}
+{"id":14571,"hitpoints":60,"name":"Fremennik sea boots 1"}
+{"id":14572,"hitpoints":90,"name":"Fremennik sea boots 2"}
+{"id":14573,"hitpoints":120,"name":"Fremennik sea boots 3"}
+{"id":14577,"hitpoints":300,"name":"Falador shield 1"}
+{"id":14578,"hitpoints":450,"name":"Falador shield 2"}
+{"id":14579,"hitpoints":600,"name":"Falador shield 3"}
+{"id":14592,"hitpoints":720,"name":"Elite black platelegs"}
+{"id":14593,"hitpoints":960,"name":"Elite black platebody"}
+{"id":14594,"hitpoints":480,"name":"Elite black full helm"}
+{"id":14636,"hitpoints":12,"name":"Slayer helmet (e)"}
+{"id":14637,"hitpoints":12,"name":"Slayer helmet (charged)"}
+{"id":14936,"hitpoints":840,"name":"Agile top"}
+{"id":14937,"hitpoints":840,"name":"Agile top"}
+{"id":14938,"hitpoints":630,"name":"Agile legs"}
+{"id":14939,"hitpoints":630,"name":"Agile legs"}
+{"id":15015,"hitpoints":0,"name":"Lunar ring (i)"}
+{"id":15018,"hitpoints":0,"name":"Seers' ring (i)"}
+{"id":15019,"hitpoints":0,"name":"Archers' ring (i)"}
+{"id":15020,"hitpoints":0,"name":"Warrior ring (i)"}
+{"id":15214,"hitpoints":360,"name":"Ram skull helm(e)"}
+{"id":15345,"hitpoints":0,"name":"Ardougne cloak 1"}
+{"id":15347,"hitpoints":0,"name":"Ardougne cloak 2"}
+{"id":15349,"hitpoints":0,"name":"Ardougne cloak 3"}
+{"id":15488,"hitpoints":240,"name":"Hexcrest"}
+{"id":15490,"hitpoints":240,"name":"Focus sight"}
+{"id":15492,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":15496,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":15497,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":15590,"hitpoints":120,"name":"Mask of dragith nurn"}
+{"id":15600,"hitpoints":1320,"name":"Infinity top"}
+{"id":15602,"hitpoints":660,"name":"Infinity hat"}
+{"id":15604,"hitpoints":990,"name":"Infinity bottoms"}
+{"id":15606,"hitpoints":1320,"name":"Infinity top"}
+{"id":15608,"hitpoints":660,"name":"Infinity hat"}
+{"id":15610,"hitpoints":990,"name":"Infinity bottoms"}
+{"id":15612,"hitpoints":1320,"name":"Infinity top"}
+{"id":15614,"hitpoints":660,"name":"Infinity hat"}
+{"id":15616,"hitpoints":990,"name":"Infinity bottoms"}
+{"id":15618,"hitpoints":1320,"name":"Infinity top"}
+{"id":15620,"hitpoints":660,"name":"Infinity hat"}
+{"id":15622,"hitpoints":990,"name":"Infinity bottoms"}
+{"id":15701,"hitpoints":900,"name":"Dark bow"}
+{"id":15702,"hitpoints":900,"name":"Dark bow"}
+{"id":15703,"hitpoints":900,"name":"Dark bow"}
+{"id":15704,"hitpoints":900,"name":"Dark bow"}
+{"id":15786,"hitpoints":3,"name":"Salve shoes (b)"}
+{"id":15787,"hitpoints":30,"name":"Wildercress shoes (b)"}
+{"id":15788,"hitpoints":60,"name":"Blightleaf shoes (b)"}
+{"id":15789,"hitpoints":90,"name":"Roseblood shoes (b)"}
+{"id":15790,"hitpoints":120,"name":"Bryll shoes (b)"}
+{"id":15791,"hitpoints":150,"name":"Duskweed shoes (b)"}
+{"id":15792,"hitpoints":180,"name":"Soulbell shoes (b)"}
+{"id":15793,"hitpoints":210,"name":"Ectoshoes (b)"}
+{"id":15794,"hitpoints":240,"name":"Runic shoes (b)"}
+{"id":15795,"hitpoints":270,"name":"Spiritbloom shoes (b)"}
+{"id":15796,"hitpoints":297,"name":"Celestial shoes (b)"}
+{"id":15797,"hitpoints":18,"name":"Salve robe bottom (b)"}
+{"id":15798,"hitpoints":180,"name":"Wildercress robe bottom (b)"}
+{"id":15799,"hitpoints":360,"name":"Blightleaf robe bottom (b)"}
+{"id":15800,"hitpoints":540,"name":"Roseblood robe bottom (b)"}
+{"id":15801,"hitpoints":720,"name":"Bryll robe bottom (b)"}
+{"id":15802,"hitpoints":900,"name":"Duskweed robe bottom (b)"}
+{"id":15803,"hitpoints":1080,"name":"Soulbell robe bottom (b)"}
+{"id":15804,"hitpoints":1260,"name":"Ectorobe bottom (b)"}
+{"id":15805,"hitpoints":1440,"name":"Runic robe bottom (b)"}
+{"id":15806,"hitpoints":1620,"name":"Spiritbloom robe bottom (b)"}
+{"id":15807,"hitpoints":1782,"name":"Celestial robe bottom (b)"}
+{"id":15808,"hitpoints":15,"name":"Novite kiteshield (b)"}
+{"id":15809,"hitpoints":150,"name":"Bathus kiteshield (b)"}
+{"id":15810,"hitpoints":300,"name":"Marmaros kiteshield (b)"}
+{"id":15811,"hitpoints":450,"name":"Kratonite kiteshield (b)"}
+{"id":15812,"hitpoints":600,"name":"Fractite kiteshield (b)"}
+{"id":15813,"hitpoints":750,"name":"Zephyrium kiteshield (b)"}
+{"id":15814,"hitpoints":900,"name":"Argonite kiteshield (b)"}
+{"id":15815,"hitpoints":1050,"name":"Katagon kiteshield (b)"}
+{"id":15816,"hitpoints":1200,"name":"Gorgonite kiteshield (b)"}
+{"id":15817,"hitpoints":1350,"name":"Promethium kiteshield (b)"}
+{"id":15818,"hitpoints":1485,"name":"Primal kiteshield (b)"}
+{"id":15819,"hitpoints":45,"name":"Silver precision bracelet (b)"}
+{"id":15820,"hitpoints":135,"name":"Golden precision bracelet (b)"}
+{"id":15821,"hitpoints":63,"name":"Sunstriker boots (b)"}
+{"id":15822,"hitpoints":144,"name":"Marksman boots (b)"}
+{"id":15823,"hitpoints":84,"name":"Incantor's boots (b)"}
+{"id":15824,"hitpoints":162,"name":"Sorcerer's boots (b)"}
+{"id":15825,"hitpoints":495,"name":"Flameburst defender (b)"}
+{"id":15828,"hitpoints":540,"name":"Shadow silk hood (b)"}
+{"id":15829,"hitpoints":171,"name":"Absorption boots (b)"}
+{"id":15830,"hitpoints":171,"name":"Grounding boots (b)"}
+{"id":15831,"hitpoints":975,"name":"Protector's ward (b)"}
+{"id":15832,"hitpoints":1410,"name":"Guardian's ward (b)"}
+{"id":15836,"hitpoints":1470,"name":"Hexhunter bow (b)"}
+{"id":15837,"hitpoints":24,"name":"Salve robe top (b)"}
+{"id":15838,"hitpoints":240,"name":"Wildercress robe top (b)"}
+{"id":15839,"hitpoints":480,"name":"Blightleaf robe top (b)"}
+{"id":15840,"hitpoints":720,"name":"Roseblood robe top (b)"}
+{"id":15841,"hitpoints":960,"name":"Bryll robe top (b)"}
+{"id":15842,"hitpoints":1200,"name":"Duskweed robe top (b)"}
+{"id":15843,"hitpoints":1440,"name":"Soulbell robe top (b)"}
+{"id":15844,"hitpoints":1680,"name":"Ectorobe top (b)"}
+{"id":15845,"hitpoints":1920,"name":"Runic robe top (b)"}
+{"id":15846,"hitpoints":2160,"name":"Spiritbloom robe top (b)"}
+{"id":15847,"hitpoints":2376,"name":"Celestial robe top (b)"}
+{"id":15892,"hitpoints":12,"name":"Salve hood (b)"}
+{"id":15893,"hitpoints":120,"name":"Wildercress hood (b)"}
+{"id":15894,"hitpoints":240,"name":"Blightleaf hood (b)"}
+{"id":15895,"hitpoints":360,"name":"Roseblood hood (b)"}
+{"id":15896,"hitpoints":480,"name":"Bryll hood (b)"}
+{"id":15897,"hitpoints":600,"name":"Duskweed hood (b)"}
+{"id":15898,"hitpoints":720,"name":"Soulbell hood (b)"}
+{"id":15899,"hitpoints":840,"name":"Ectohood (b)"}
+{"id":15900,"hitpoints":960,"name":"Runic hood (b)"}
+{"id":15901,"hitpoints":1080,"name":"Spiritbloom hood (b)"}
+{"id":15902,"hitpoints":1188,"name":"Celestial hood (b)"}
+{"id":15903,"hitpoints":15,"name":"Tangle gum longbow (b)"}
+{"id":15904,"hitpoints":150,"name":"Seeping elm longbow (b)"}
+{"id":15905,"hitpoints":300,"name":"Blood spindle longbow (b)"}
+{"id":15906,"hitpoints":450,"name":"Utuku longbow (b)"}
+{"id":15907,"hitpoints":600,"name":"Spinebeam longbow (b)"}
+{"id":15908,"hitpoints":750,"name":"Bovistrangler longbow (b)"}
+{"id":15909,"hitpoints":900,"name":"Thigat longbow (b)"}
+{"id":15910,"hitpoints":1050,"name":"Corpsethorn longbow (b)"}
+{"id":15911,"hitpoints":1200,"name":"Entgallow longbow (b)"}
+{"id":15912,"hitpoints":1350,"name":"Grave creeper longbow (b)"}
+{"id":15913,"hitpoints":1485,"name":"Sagittarian longbow (b)"}
+{"id":15914,"hitpoints":12,"name":"Novite full helm (b)"}
+{"id":15915,"hitpoints":120,"name":"Bathus full helm (b)"}
+{"id":15916,"hitpoints":240,"name":"Marmaros full helm (b)"}
+{"id":15917,"hitpoints":360,"name":"Kratonite full helm (b)"}
+{"id":15918,"hitpoints":480,"name":"Fractite full helm (b)"}
+{"id":15919,"hitpoints":600,"name":"Zephyrium full helm (b)"}
+{"id":15920,"hitpoints":720,"name":"Argonite full helm (b)"}
+{"id":15921,"hitpoints":840,"name":"Katagon full helm (b)"}
+{"id":15922,"hitpoints":960,"name":"Gorgonite full helm (b)"}
+{"id":15923,"hitpoints":1080,"name":"Promethium full helm (b)"}
+{"id":15924,"hitpoints":1188,"name":"Primal full helm (b)"}
+{"id":15925,"hitpoints":18,"name":"Novite platelegs (b)"}
+{"id":15926,"hitpoints":180,"name":"Bathus platelegs (b)"}
+{"id":15927,"hitpoints":360,"name":"Marmaros platelegs (b)"}
+{"id":15928,"hitpoints":540,"name":"Kratonite platelegs (b)"}
+{"id":15929,"hitpoints":720,"name":"Fractite platelegs (b)"}
+{"id":15930,"hitpoints":900,"name":"Zephyrium platelegs (b)"}
+{"id":15931,"hitpoints":1080,"name":"Argonite platelegs (b)"}
+{"id":15932,"hitpoints":1260,"name":"Katagon platelegs (b)"}
+{"id":15933,"hitpoints":1440,"name":"Gorgonite platelegs (b)"}
+{"id":15934,"hitpoints":1620,"name":"Promethium platelegs (b)"}
+{"id":15935,"hitpoints":1782,"name":"Primal platelegs (b)"}
+{"id":15936,"hitpoints":3,"name":"Novite gauntlets (b)"}
+{"id":15937,"hitpoints":30,"name":"Bathus gauntlets (b)"}
+{"id":15938,"hitpoints":60,"name":"Marmaros gauntlets (b)"}
+{"id":15939,"hitpoints":90,"name":"Kratonite gauntlets (b)"}
+{"id":15940,"hitpoints":120,"name":"Fractite gauntlets (b)"}
+{"id":15941,"hitpoints":150,"name":"Zephyrium gauntlets (b)"}
+{"id":15942,"hitpoints":180,"name":"Argonite gauntlets (b)"}
+{"id":15943,"hitpoints":210,"name":"Katagon gauntlets (b)"}
+{"id":15944,"hitpoints":240,"name":"Gorgonite gauntlets (b)"}
+{"id":15945,"hitpoints":270,"name":"Promethium gauntlets (b)"}
+{"id":15946,"hitpoints":297,"name":"Primal gauntlets (b)"}
+{"id":16002,"hitpoints":3,"name":"Protoleather boots (b)"}
+{"id":16003,"hitpoints":30,"name":"Subleather boots (b)"}
+{"id":16004,"hitpoints":60,"name":"Paraleather boots (b)"}
+{"id":16005,"hitpoints":90,"name":"Archleather boots (b)"}
+{"id":16006,"hitpoints":120,"name":"Dromoleather boots (b)"}
+{"id":16007,"hitpoints":150,"name":"Spinoleather boots (b)"}
+{"id":16008,"hitpoints":180,"name":"Gallileather boots (b)"}
+{"id":16009,"hitpoints":210,"name":"Stegoleather boots (b)"}
+{"id":16010,"hitpoints":240,"name":"Megaleather boots (b)"}
+{"id":16011,"hitpoints":270,"name":"Tyrannoleather boots (b)"}
+{"id":16012,"hitpoints":297,"name":"Sagittarian boots (b)"}
+{"id":16013,"hitpoints":120,"name":"Novite platebody (b)"}
+{"id":16014,"hitpoints":240,"name":"Bathus platebody (b)"}
+{"id":16015,"hitpoints":480,"name":"Marmaros platebody (b)"}
+{"id":16016,"hitpoints":720,"name":"Kratonite platebody (b)"}
+{"id":16017,"hitpoints":960,"name":"Fractite platebody (b)"}
+{"id":16018,"hitpoints":1200,"name":"Zephyrium platebody (b)"}
+{"id":16019,"hitpoints":1440,"name":"Argonite platebody (b)"}
+{"id":16020,"hitpoints":1680,"name":"Katagon platebody (b)"}
+{"id":16021,"hitpoints":1920,"name":"Gorgonite platebody (b)"}
+{"id":16022,"hitpoints":2160,"name":"Promethium platebody (b)"}
+{"id":16023,"hitpoints":2376,"name":"Primal platebody (b)"}
+{"id":16046,"hitpoints":12,"name":"Protoleather coif (b)"}
+{"id":16047,"hitpoints":120,"name":"Subleather coif (b)"}
+{"id":16048,"hitpoints":240,"name":"Paraleather coif (b)"}
+{"id":16049,"hitpoints":360,"name":"Archleather coif (b)"}
+{"id":16050,"hitpoints":480,"name":"Dromoleather coif (b)"}
+{"id":16051,"hitpoints":600,"name":"Spinoleather coif (b)"}
+{"id":16052,"hitpoints":720,"name":"Gallileather coif (b)"}
+{"id":16053,"hitpoints":840,"name":"Stegoleather coif (b)"}
+{"id":16054,"hitpoints":960,"name":"Megaleather coif (b)"}
+{"id":16055,"hitpoints":1080,"name":"Tyrannoleather coif (b)"}
+{"id":16056,"hitpoints":1188,"name":"Sagittarian coif (b)"}
+{"id":16057,"hitpoints":18,"name":"Protoleather chaps (b)"}
+{"id":16058,"hitpoints":180,"name":"Subleather chaps (b)"}
+{"id":16059,"hitpoints":360,"name":"Paraleather chaps (b)"}
+{"id":16060,"hitpoints":540,"name":"Archleather chaps (b)"}
+{"id":16061,"hitpoints":720,"name":"Dromoleather chaps (b)"}
+{"id":16062,"hitpoints":900,"name":"Spinoleather chaps (b)"}
+{"id":16063,"hitpoints":1080,"name":"Gallileather chaps (b)"}
+{"id":16064,"hitpoints":1260,"name":"Stegoleather chaps (b)"}
+{"id":16065,"hitpoints":1440,"name":"Megaleather chaps (b)"}
+{"id":16066,"hitpoints":1620,"name":"Tyrannoleather chaps (b)"}
+{"id":16067,"hitpoints":1782,"name":"Sagittarian chaps (b)"}
+{"id":16068,"hitpoints":24,"name":"Protoleather body (b)"}
+{"id":16069,"hitpoints":240,"name":"Subleather body (b)"}
+{"id":16070,"hitpoints":480,"name":"Paraleather body (b)"}
+{"id":16071,"hitpoints":720,"name":"Archleather body (b)"}
+{"id":16072,"hitpoints":960,"name":"Dromoleather body (b)"}
+{"id":16073,"hitpoints":1200,"name":"Spinoleather body (b)"}
+{"id":16074,"hitpoints":1440,"name":"Gallileather body (b)"}
+{"id":16075,"hitpoints":1680,"name":"Stegoleather body (b)"}
+{"id":16076,"hitpoints":1920,"name":"Megaleather body (b)"}
+{"id":16077,"hitpoints":2160,"name":"Tyrannoleather body (b)"}
+{"id":16078,"hitpoints":2376,"name":"Sagittarian body (b)"}
+{"id":16079,"hitpoints":15,"name":"Anti-dragon shield (b)"}
+{"id":16080,"hitpoints":24,"name":"Novite chainbody (b)"}
+{"id":16081,"hitpoints":192,"name":"Bathus chainbody (b)"}
+{"id":16082,"hitpoints":432,"name":"Marmaros chainbody (b)"}
+{"id":16083,"hitpoints":672,"name":"Kratonite chainbody (b)"}
+{"id":16084,"hitpoints":912,"name":"Fractite chainbody (b)"}
+{"id":16085,"hitpoints":1152,"name":"Zephyrium chainbody (b)"}
+{"id":16086,"hitpoints":1392,"name":"Argonite chainbody (b)"}
+{"id":16087,"hitpoints":1632,"name":"Katagon chainbody (b)"}
+{"id":16088,"hitpoints":1872,"name":"Gorgonite chainbody (b)"}
+{"id":16089,"hitpoints":2112,"name":"Promethium chainbody (b)"}
+{"id":16090,"hitpoints":2328,"name":"Primal chainbody (b)"}
+{"id":16105,"hitpoints":3,"name":"Protoleather vambraces (b)"}
+{"id":16106,"hitpoints":30,"name":"Subleather vambraces (b)"}
+{"id":16107,"hitpoints":60,"name":"Paraleather vambraces (b)"}
+{"id":16108,"hitpoints":90,"name":"Archleather vambraces (b)"}
+{"id":16109,"hitpoints":120,"name":"Dromoleather vambraces (b)"}
+{"id":16110,"hitpoints":150,"name":"Spinoleather vambraces (b)"}
+{"id":16111,"hitpoints":180,"name":"Gallileather vambraces (b)"}
+{"id":16112,"hitpoints":210,"name":"Stegoleather vambraces (b)"}
+{"id":16113,"hitpoints":240,"name":"Megaleather vambraces (b)"}
+{"id":16114,"hitpoints":270,"name":"Tyrannoleather vambraces (b)"}
+{"id":16115,"hitpoints":297,"name":"Sagittarian vambraces (b)"}
+{"id":16185,"hitpoints":3,"name":"Salve gloves (b)"}
+{"id":16186,"hitpoints":30,"name":"Wildercress gloves (b)"}
+{"id":16187,"hitpoints":60,"name":"Blightleaf gloves (b)"}
+{"id":16188,"hitpoints":90,"name":"Roseblood gloves (b)"}
+{"id":16189,"hitpoints":120,"name":"Bryll gloves (b)"}
+{"id":16190,"hitpoints":150,"name":"Duskweed gloves (b)"}
+{"id":16191,"hitpoints":180,"name":"Soulbell gloves (b)"}
+{"id":16192,"hitpoints":210,"name":"Ectogloves (b)"}
+{"id":16193,"hitpoints":240,"name":"Runic gloves (b)"}
+{"id":16194,"hitpoints":270,"name":"Spiritbloom gloves (b)"}
+{"id":16195,"hitpoints":297,"name":"Celestial gloves (b)"}
+{"id":16196,"hitpoints":18,"name":"Novite plateskirt (b)"}
+{"id":16197,"hitpoints":180,"name":"Bathus plateskirt (b)"}
+{"id":16198,"hitpoints":360,"name":"Marmaros plateskirt (b)"}
+{"id":16199,"hitpoints":540,"name":"Kratonite plateskirt (b)"}
+{"id":16200,"hitpoints":720,"name":"Fractite plateskirt (b)"}
+{"id":16201,"hitpoints":900,"name":"Zephyrium plateskirt (b)"}
+{"id":16202,"hitpoints":1080,"name":"Argonite plateskirt (b)"}
+{"id":16203,"hitpoints":1260,"name":"Katagon plateskirt (b)"}
+{"id":16204,"hitpoints":1440,"name":"Gorgonite plateskirt (b)"}
+{"id":16205,"hitpoints":1620,"name":"Promethium plateskirt (b)"}
+{"id":16206,"hitpoints":1782,"name":"Primal plateskirt (b)"}
+{"id":16262,"hitpoints":3,"name":"Novite boots (b)"}
+{"id":16263,"hitpoints":30,"name":"Bathus boots (b)"}
+{"id":16264,"hitpoints":60,"name":"Marmaros boots (b)"}
+{"id":16265,"hitpoints":90,"name":"Kratonite boots (b)"}
+{"id":16266,"hitpoints":120,"name":"Fractite boots (b)"}
+{"id":16267,"hitpoints":150,"name":"Zephyrium boots (b)"}
+{"id":16268,"hitpoints":180,"name":"Argonite boots (b)"}
+{"id":16269,"hitpoints":210,"name":"Katagon boots (b)"}
+{"id":16270,"hitpoints":240,"name":"Gorgonite boots (b)"}
+{"id":16271,"hitpoints":270,"name":"Promethium boots (b)"}
+{"id":16272,"hitpoints":297,"name":"Primal boots (b)"}
+{"id":16273,"hitpoints":3,"name":"Novite gauntlets"}
+{"id":16275,"hitpoints":30,"name":"Bathus gauntlets"}
+{"id":16277,"hitpoints":60,"name":"Marmaros gauntlets"}
+{"id":16279,"hitpoints":90,"name":"Kratonite gauntlets"}
+{"id":16281,"hitpoints":120,"name":"Fractite gauntlets"}
+{"id":16283,"hitpoints":150,"name":"Zephyrium gauntlets"}
+{"id":16285,"hitpoints":180,"name":"Argonite gauntlets"}
+{"id":16287,"hitpoints":210,"name":"Katagon gauntlets"}
+{"id":16289,"hitpoints":240,"name":"Gorgonite gauntlets"}
+{"id":16291,"hitpoints":270,"name":"Promethium gauntlets"}
+{"id":16293,"hitpoints":297,"name":"Primal gauntlets"}
+{"id":16317,"hitpoints":15,"name":"Tangle gum longbow"}
+{"id":16319,"hitpoints":150,"name":"Seeping elm longbow"}
+{"id":16321,"hitpoints":300,"name":"Blood spindle longbow"}
+{"id":16323,"hitpoints":450,"name":"Utuku longbow"}
+{"id":16325,"hitpoints":600,"name":"Spinebeam longbow"}
+{"id":16327,"hitpoints":750,"name":"Bovistrangler longbow"}
+{"id":16329,"hitpoints":900,"name":"Thigat longbow"}
+{"id":16331,"hitpoints":1050,"name":"Corpsethorn longbow"}
+{"id":16333,"hitpoints":1200,"name":"Entgallow longbow"}
+{"id":16335,"hitpoints":1350,"name":"Grave creeper longbow"}
+{"id":16337,"hitpoints":1485,"name":"Sagittarian longbow"}
+{"id":16339,"hitpoints":3,"name":"Novite boots"}
+{"id":16341,"hitpoints":30,"name":"Bathus boots"}
+{"id":16343,"hitpoints":60,"name":"Marmaros boots"}
+{"id":16345,"hitpoints":90,"name":"Kratonite boots"}
+{"id":16347,"hitpoints":120,"name":"Fractite boots"}
+{"id":16349,"hitpoints":150,"name":"Zephyrium boots"}
+{"id":16351,"hitpoints":180,"name":"Argonite boots"}
+{"id":16353,"hitpoints":210,"name":"Katagon boots"}
+{"id":16355,"hitpoints":240,"name":"Gorgonite boots"}
+{"id":16357,"hitpoints":270,"name":"Promethium boots"}
+{"id":16359,"hitpoints":297,"name":"Primal boots"}
+{"id":16647,"hitpoints":18,"name":"Novite plateskirt"}
+{"id":16649,"hitpoints":180,"name":"Bathus plateskirt"}
+{"id":16651,"hitpoints":360,"name":"Marmaros plateskirt"}
+{"id":16653,"hitpoints":540,"name":"Kratonite plateskirt"}
+{"id":16655,"hitpoints":720,"name":"Fractite plateskirt"}
+{"id":16657,"hitpoints":900,"name":"Zephyrium plateskirt"}
+{"id":16659,"hitpoints":1080,"name":"Argonite plateskirt"}
+{"id":16661,"hitpoints":1260,"name":"Katagon plateskirt"}
+{"id":16663,"hitpoints":1440,"name":"Gorgonite plateskirt"}
+{"id":16665,"hitpoints":1620,"name":"Promethium plateskirt"}
+{"id":16667,"hitpoints":1782,"name":"Primal plateskirt"}
+{"id":16669,"hitpoints":18,"name":"Novite platelegs"}
+{"id":16671,"hitpoints":180,"name":"Bathus platelegs"}
+{"id":16673,"hitpoints":360,"name":"Marmaros platelegs"}
+{"id":16675,"hitpoints":540,"name":"Kratonite platelegs"}
+{"id":16677,"hitpoints":720,"name":"Fractite platelegs"}
+{"id":16679,"hitpoints":900,"name":"Zephyrium platelegs"}
+{"id":16681,"hitpoints":1080,"name":"Argonite platelegs"}
+{"id":16683,"hitpoints":1260,"name":"Katagon platelegs"}
+{"id":16685,"hitpoints":1440,"name":"Gorgonite platelegs"}
+{"id":16687,"hitpoints":1620,"name":"Promethium platelegs"}
+{"id":16689,"hitpoints":1782,"name":"Primal platelegs"}
+{"id":16691,"hitpoints":12,"name":"Novite full helm"}
+{"id":16693,"hitpoints":120,"name":"Bathus full helm"}
+{"id":16695,"hitpoints":240,"name":"Marmaros full helm"}
+{"id":16697,"hitpoints":360,"name":"Kratonite full helm"}
+{"id":16699,"hitpoints":480,"name":"Fractite full helm"}
+{"id":16701,"hitpoints":600,"name":"Zephyrium full helm"}
+{"id":16703,"hitpoints":720,"name":"Argonite full helm"}
+{"id":16705,"hitpoints":840,"name":"Katagon full helm"}
+{"id":16707,"hitpoints":960,"name":"Gorgonite full helm"}
+{"id":16709,"hitpoints":1080,"name":"Promethium full helm"}
+{"id":16711,"hitpoints":1188,"name":"Primal full helm"}
+{"id":16713,"hitpoints":24,"name":"Novite chainbody"}
+{"id":16715,"hitpoints":192,"name":"Bathus chainbody"}
+{"id":16717,"hitpoints":432,"name":"Marmaros chainbody"}
+{"id":16719,"hitpoints":672,"name":"Kratonite chainbody"}
+{"id":16721,"hitpoints":912,"name":"Fractite chainbody"}
+{"id":16723,"hitpoints":1152,"name":"Zephyrium chainbody"}
+{"id":16725,"hitpoints":1392,"name":"Argonite chainbody"}
+{"id":16727,"hitpoints":1632,"name":"Katagon chainbody"}
+{"id":16729,"hitpoints":1872,"name":"Gorgonite chainbody"}
+{"id":16731,"hitpoints":2112,"name":"Promethium chainbody"}
+{"id":16733,"hitpoints":2328,"name":"Primal chainbody"}
+{"id":16735,"hitpoints":12,"name":"Salve hood"}
+{"id":16737,"hitpoints":120,"name":"Wildercress hood"}
+{"id":16739,"hitpoints":240,"name":"Blightleaf hood"}
+{"id":16741,"hitpoints":360,"name":"Roseblood hood"}
+{"id":16743,"hitpoints":480,"name":"Bryll hood"}
+{"id":16745,"hitpoints":600,"name":"Duskweed hood"}
+{"id":16747,"hitpoints":720,"name":"Soulbell hood"}
+{"id":16749,"hitpoints":840,"name":"Ectohood"}
+{"id":16751,"hitpoints":960,"name":"Runic hood"}
+{"id":16753,"hitpoints":1080,"name":"Spiritbloom hood"}
+{"id":16755,"hitpoints":1188,"name":"Celestial hood"}
+{"id":16845,"hitpoints":18,"name":"Salve robe bottom"}
+{"id":16847,"hitpoints":180,"name":"Wildercress robe bottom"}
+{"id":16849,"hitpoints":360,"name":"Blightleaf robe bottom"}
+{"id":16851,"hitpoints":540,"name":"Roseblood robe bottom"}
+{"id":16853,"hitpoints":720,"name":"Bryll robe bottom"}
+{"id":16855,"hitpoints":900,"name":"Duskweed robe bottom"}
+{"id":16857,"hitpoints":1080,"name":"Soulbell robe bottom"}
+{"id":16859,"hitpoints":1260,"name":"Ectorobe bottom"}
+{"id":16861,"hitpoints":1440,"name":"Runic robe bottom"}
+{"id":16863,"hitpoints":1620,"name":"Spiritbloom robe bottom"}
+{"id":16865,"hitpoints":1782,"name":"Celestial robe bottom"}
+{"id":16911,"hitpoints":3,"name":"Salve shoes"}
+{"id":16913,"hitpoints":30,"name":"Wildercress shoes"}
+{"id":16915,"hitpoints":60,"name":"Blightleaf shoes"}
+{"id":16917,"hitpoints":90,"name":"Roseblood shoes"}
+{"id":16919,"hitpoints":120,"name":"Bryll shoes"}
+{"id":16921,"hitpoints":150,"name":"Duskweed shoes"}
+{"id":16923,"hitpoints":180,"name":"Soulbell shoes"}
+{"id":16925,"hitpoints":210,"name":"Ectoshoes"}
+{"id":16927,"hitpoints":240,"name":"Runic shoes"}
+{"id":16929,"hitpoints":270,"name":"Spiritbloom shoes"}
+{"id":16931,"hitpoints":297,"name":"Celestial shoes"}
+{"id":16933,"hitpoints":15,"name":"Anti-dragon shield"}
+{"id":16971,"hitpoints":1200,"name":"Gorgonite kiteshield"}
+{"id":17041,"hitpoints":12,"name":"Protoleather coif"}
+{"id":17043,"hitpoints":120,"name":"Subleather coif"}
+{"id":17045,"hitpoints":240,"name":"Paraleather coif"}
+{"id":17047,"hitpoints":360,"name":"Archleather coif"}
+{"id":17049,"hitpoints":480,"name":"Dromoleather coif"}
+{"id":17051,"hitpoints":600,"name":"Spinoleather coif"}
+{"id":17053,"hitpoints":720,"name":"Gallileather coif"}
+{"id":17055,"hitpoints":840,"name":"Stegoleather coif"}
+{"id":17057,"hitpoints":960,"name":"Megaleather coif"}
+{"id":17059,"hitpoints":1080,"name":"Tyrannoleather coif"}
+{"id":17061,"hitpoints":1188,"name":"Sagittarian coif"}
+{"id":17151,"hitpoints":3,"name":"Salve gloves"}
+{"id":17153,"hitpoints":30,"name":"Wildercress gloves"}
+{"id":17155,"hitpoints":60,"name":"Blightleaf gloves"}
+{"id":17157,"hitpoints":90,"name":"Roseblood gloves"}
+{"id":17159,"hitpoints":120,"name":"Bryll gloves"}
+{"id":17161,"hitpoints":150,"name":"Duskweed gloves"}
+{"id":17163,"hitpoints":180,"name":"Soulbell gloves"}
+{"id":17165,"hitpoints":210,"name":"Ectogloves"}
+{"id":17167,"hitpoints":240,"name":"Runic gloves"}
+{"id":17169,"hitpoints":270,"name":"Spiritbloom gloves"}
+{"id":17171,"hitpoints":297,"name":"Celestial gloves"}
+{"id":17173,"hitpoints":24,"name":"Protoleather body"}
+{"id":17175,"hitpoints":240,"name":"Subleather body"}
+{"id":17177,"hitpoints":480,"name":"Paraleather body"}
+{"id":17179,"hitpoints":720,"name":"Archleather body"}
+{"id":17181,"hitpoints":960,"name":"Dromoleather body"}
+{"id":17183,"hitpoints":1200,"name":"Spinoleather body"}
+{"id":17185,"hitpoints":1440,"name":"Gallileather body"}
+{"id":17187,"hitpoints":1680,"name":"Stegoleather body"}
+{"id":17189,"hitpoints":1920,"name":"Megaleather body"}
+{"id":17191,"hitpoints":2160,"name":"Tyrannoleather body"}
+{"id":17193,"hitpoints":2376,"name":"Sagittarian body"}
+{"id":17195,"hitpoints":3,"name":"Protoleather vambraces"}
+{"id":17197,"hitpoints":30,"name":"Subleather vambraces"}
+{"id":17199,"hitpoints":60,"name":"Paraleather vambraces"}
+{"id":17201,"hitpoints":90,"name":"Archleather vambraces"}
+{"id":17203,"hitpoints":120,"name":"Dromoleather vambraces"}
+{"id":17205,"hitpoints":150,"name":"Spinoleather vambraces"}
+{"id":17207,"hitpoints":180,"name":"Gallileather vambraces"}
+{"id":17209,"hitpoints":210,"name":"Stegoleather vambraces"}
+{"id":17211,"hitpoints":240,"name":"Megaleather vambraces"}
+{"id":17213,"hitpoints":270,"name":"Tyrannoleather vambraces"}
+{"id":17215,"hitpoints":297,"name":"Sagittarian vambraces"}
+{"id":17217,"hitpoints":24,"name":"Salve robe top"}
+{"id":17219,"hitpoints":240,"name":"Wildercress robe top"}
+{"id":17221,"hitpoints":480,"name":"Blightleaf robe top"}
+{"id":17223,"hitpoints":720,"name":"Roseblood robe top"}
+{"id":17225,"hitpoints":960,"name":"Bryll robe top"}
+{"id":17227,"hitpoints":1200,"name":"Duskweed robe top"}
+{"id":17229,"hitpoints":1440,"name":"Soulbell robe top"}
+{"id":17231,"hitpoints":1680,"name":"Ectorobe top"}
+{"id":17233,"hitpoints":1920,"name":"Runic robe top"}
+{"id":17235,"hitpoints":2160,"name":"Spiritbloom robe top"}
+{"id":17237,"hitpoints":2376,"name":"Celestial robe top"}
+{"id":17239,"hitpoints":24,"name":"Novite platebody"}
+{"id":17241,"hitpoints":240,"name":"Bathus platebody"}
+{"id":17243,"hitpoints":480,"name":"Marmaros platebody"}
+{"id":17245,"hitpoints":720,"name":"Kratonite platebody"}
+{"id":17247,"hitpoints":960,"name":"Fractite platebody"}
+{"id":17249,"hitpoints":1200,"name":"Zephyrium platebody"}
+{"id":17251,"hitpoints":1440,"name":"Argonite platebody"}
+{"id":17253,"hitpoints":1680,"name":"Katagon platebody"}
+{"id":17255,"hitpoints":1920,"name":"Gorgonite platebody"}
+{"id":17257,"hitpoints":2160,"name":"Promethium platebody"}
+{"id":17259,"hitpoints":2376,"name":"Primal platebody"}
+{"id":17261,"hitpoints":45,"name":"Silver precision bracelet"}
+{"id":17263,"hitpoints":135,"name":"Golden precision bracelet"}
+{"id":17265,"hitpoints":63,"name":"Sunstriker boots"}
+{"id":17267,"hitpoints":144,"name":"Marksman boots"}
+{"id":17269,"hitpoints":84,"name":"Incantor's boots"}
+{"id":17271,"hitpoints":162,"name":"Sorcerer's boots"}
+{"id":17273,"hitpoints":495,"name":"Flameburst defender"}
+{"id":17279,"hitpoints":540,"name":"Shadow silk hood"}
+{"id":17281,"hitpoints":171,"name":"Absorption boots"}
+{"id":17283,"hitpoints":249,"name":"Grounding boots"}
+{"id":17285,"hitpoints":975,"name":"Protector's ward"}
+{"id":17287,"hitpoints":1410,"name":"Guardian's ward"}
+{"id":17295,"hitpoints":1470,"name":"Hexhunter bow"}
+{"id":17297,"hitpoints":3,"name":"Protoleather boots"}
+{"id":17299,"hitpoints":30,"name":"Subleather boots"}
+{"id":17301,"hitpoints":60,"name":"Paraleather boots"}
+{"id":17303,"hitpoints":90,"name":"Archleather boots"}
+{"id":17305,"hitpoints":120,"name":"Dromoleather boots"}
+{"id":17307,"hitpoints":150,"name":"Spinoleather boots"}
+{"id":17309,"hitpoints":180,"name":"Gallileather boots"}
+{"id":17311,"hitpoints":210,"name":"Stegoleather boots"}
+{"id":17313,"hitpoints":240,"name":"Megaleather boots"}
+{"id":17315,"hitpoints":270,"name":"Tyrannoleather boots"}
+{"id":17317,"hitpoints":297,"name":"Sagittarian boots"}
+{"id":17319,"hitpoints":18,"name":"Protoleather chaps"}
+{"id":17321,"hitpoints":180,"name":"Subleather chaps"}
+{"id":17323,"hitpoints":360,"name":"Paraleather chaps"}
+{"id":17325,"hitpoints":540,"name":"Archleather chaps"}
+{"id":17327,"hitpoints":720,"name":"Dromoleather chaps"}
+{"id":17329,"hitpoints":900,"name":"Spinoleather chaps"}
+{"id":17331,"hitpoints":1080,"name":"Gallileather chaps"}
+{"id":17333,"hitpoints":1260,"name":"Stegoleather chaps"}
+{"id":17335,"hitpoints":1440,"name":"Megaleather chaps"}
+{"id":17337,"hitpoints":1620,"name":"Tyrannoleather chaps"}
+{"id":17339,"hitpoints":1782,"name":"Sagittarian chaps"}
+{"id":17341,"hitpoints":15,"name":"Novite kiteshield"}
+{"id":17343,"hitpoints":150,"name":"Bathus kiteshield"}
+{"id":17345,"hitpoints":300,"name":"Marmaros kiteshield"}
+{"id":17347,"hitpoints":450,"name":"Kratonite kiteshield"}
+{"id":17349,"hitpoints":600,"name":"Fractite kiteshield"}
+{"id":17351,"hitpoints":750,"name":"Zephyrium kiteshield"}
+{"id":17353,"hitpoints":900,"name":"Argonite kiteshield"}
+{"id":17355,"hitpoints":1050,"name":"Katagon kiteshield"}
+{"id":17357,"hitpoints":1200,"name":"Gorgonite kiteshield"}
+{"id":17359,"hitpoints":1350,"name":"Promethium kiteshield"}
+{"id":17361,"hitpoints":1485,"name":"Primal kiteshield"}
+{"id":18331,"hitpoints":675,"name":"Maple shieldbow (sighted)"}
+{"id":18332,"hitpoints":825,"name":"Magic shieldbow (sighted)"}
+{"id":18347,"hitpoints":219,"name":"Mercenary's gloves"}
+{"id":18359,"hitpoints":1200,"name":"Chaotic kiteshield"}
+{"id":18361,"hitpoints":1200,"name":"Eagle-eye kiteshield"}
+{"id":18363,"hitpoints":1200,"name":"Farseer kiteshield"}
+{"id":18508,"hitpoints":0,"name":"Dungeoneering cape"}
+{"id":18509,"hitpoints":0,"name":"Dungeoneering cape (t)"}
+{"id":18691,"hitpoints":150,"name":"Body shield"}
+{"id":18693,"hitpoints":120,"name":"Body helmet"}
+{"id":18695,"hitpoints":240,"name":"Body body"}
+{"id":18697,"hitpoints":120,"name":"Mind body"}
+{"id":18699,"hitpoints":24,"name":"Elemental body"}
+{"id":18744,"hitpoints":120,"name":"Guthix halo"}
+{"id":18745,"hitpoints":120,"name":"Saradomin halo"}
+{"id":18746,"hitpoints":120,"name":"Zamorak halo"}
+{"id":18747,"hitpoints":600,"name":"Faithful shield"}
+{"id":19143,"hitpoints":825,"name":"Saradomin bow"}
+{"id":19145,"hitpoints":825,"name":"Saradomin bow"}
+{"id":19146,"hitpoints":825,"name":"Guthix bow"}
+{"id":19148,"hitpoints":825,"name":"Guthix bow"}
+{"id":19149,"hitpoints":825,"name":"Zamorak bow"}
+{"id":19151,"hitpoints":825,"name":"Zamorak bow"}
+{"id":19167,"hitpoints":600,"name":"Black platebody (h1)"}
+{"id":19169,"hitpoints":450,"name":"Black platelegs (h1)"}
+{"id":19171,"hitpoints":450,"name":"Black plateskirt (h1)"}
+{"id":19173,"hitpoints":960,"name":"Adamant platebody (h1)"}
+{"id":19175,"hitpoints":720,"name":"Adamant platelegs (h1)"}
+{"id":19177,"hitpoints":720,"name":"Adamant plateskirt (h1)"}
+{"id":19179,"hitpoints":1200,"name":"Rune platebody (h1)"}
+{"id":19181,"hitpoints":1200,"name":"Rune platebody (h1)"}
+{"id":19182,"hitpoints":900,"name":"Rune platelegs (h1)"}
+{"id":19184,"hitpoints":900,"name":"Rune platelegs (h1)"}
+{"id":19185,"hitpoints":900,"name":"Rune plateskirt (h1)"}
+{"id":19187,"hitpoints":900,"name":"Rune plateskirt (h1)"}
+{"id":19188,"hitpoints":600,"name":"Black platebody (h2)"}
+{"id":19190,"hitpoints":450,"name":"Black platelegs (h2)"}
+{"id":19192,"hitpoints":450,"name":"Black plateskirt (h2)"}
+{"id":19194,"hitpoints":960,"name":"Adamant platebody (h2)"}
+{"id":19196,"hitpoints":720,"name":"Adamant platelegs (h2)"}
+{"id":19198,"hitpoints":720,"name":"Adamant plateskirt (h2)"}
+{"id":19200,"hitpoints":1200,"name":"Rune platebody (h2)"}
+{"id":19202,"hitpoints":1200,"name":"Rune platebody (h2)"}
+{"id":19203,"hitpoints":900,"name":"Rune platelegs (h2)"}
+{"id":19205,"hitpoints":900,"name":"Rune platelegs (h2)"}
+{"id":19206,"hitpoints":900,"name":"Rune plateskirt (h2)"}
+{"id":19208,"hitpoints":900,"name":"Rune plateskirt (h2)"}
+{"id":19209,"hitpoints":600,"name":"Black platebody (h3)"}
+{"id":19211,"hitpoints":450,"name":"Black platelegs (h3)"}
+{"id":19213,"hitpoints":450,"name":"Black plateskirt (h3)"}
+{"id":19215,"hitpoints":960,"name":"Adamant platebody (h3)"}
+{"id":19217,"hitpoints":720,"name":"Adamant platelegs (h3)"}
+{"id":19219,"hitpoints":720,"name":"Adamant plateskirt (h3)"}
+{"id":19221,"hitpoints":1200,"name":"Rune platebody (h3)"}
+{"id":19223,"hitpoints":1200,"name":"Rune platebody (h3)"}
+{"id":19224,"hitpoints":900,"name":"Rune platelegs (h3)"}
+{"id":19226,"hitpoints":900,"name":"Rune platelegs (h3)"}
+{"id":19227,"hitpoints":900,"name":"Rune plateskirt (h3)"}
+{"id":19229,"hitpoints":900,"name":"Rune plateskirt (h3)"}
+{"id":19230,"hitpoints":600,"name":"Black platebody (h4)"}
+{"id":19232,"hitpoints":450,"name":"Black platelegs (h4)"}
+{"id":19234,"hitpoints":450,"name":"Black plateskirt (h4)"}
+{"id":19236,"hitpoints":960,"name":"Adamant platebody (h4)"}
+{"id":19238,"hitpoints":720,"name":"Adamant platelegs (h4)"}
+{"id":19240,"hitpoints":720,"name":"Adamant plateskirt (h4)"}
+{"id":19242,"hitpoints":1200,"name":"Rune platebody (h4)"}
+{"id":19244,"hitpoints":1200,"name":"Rune platebody (h4)"}
+{"id":19245,"hitpoints":900,"name":"Rune platelegs (h4)"}
+{"id":19247,"hitpoints":900,"name":"Rune platelegs (h4)"}
+{"id":19248,"hitpoints":900,"name":"Rune plateskirt (h4)"}
+{"id":19250,"hitpoints":900,"name":"Rune plateskirt (h4)"}
+{"id":19251,"hitpoints":600,"name":"Black platebody (h5)"}
+{"id":19253,"hitpoints":450,"name":"Black platelegs (h5)"}
+{"id":19255,"hitpoints":450,"name":"Black plateskirt (h5)"}
+{"id":19257,"hitpoints":960,"name":"Adamant platebody (h5)"}
+{"id":19259,"hitpoints":720,"name":"Adamant platelegs (h5)"}
+{"id":19261,"hitpoints":720,"name":"Adamant plateskirt (h5)"}
+{"id":19263,"hitpoints":1200,"name":"Rune platebody (h5)"}
+{"id":19265,"hitpoints":1200,"name":"Rune platebody (h5)"}
+{"id":19266,"hitpoints":900,"name":"Rune platelegs (h5)"}
+{"id":19268,"hitpoints":900,"name":"Rune platelegs (h5)"}
+{"id":19269,"hitpoints":900,"name":"Rune plateskirt (h5)"}
+{"id":19271,"hitpoints":900,"name":"Rune plateskirt (h5)"}
+{"id":19311,"hitpoints":0,"name":"Third-age druidic cloak"}
+{"id":19313,"hitpoints":0,"name":"Third-age druidic cloak"}
+{"id":19314,"hitpoints":780,"name":"Third-age druidic wreath"}
+{"id":19316,"hitpoints":780,"name":"Third-age druidic wreath"}
+{"id":19317,"hitpoints":1560,"name":"Third-age druidic robe top"}
+{"id":19319,"hitpoints":1560,"name":"Third-age druidic robe top"}
+{"id":19320,"hitpoints":1170,"name":"Third-age druidic robe"}
+{"id":19322,"hitpoints":1170,"name":"Third-age druidic robe"}
+{"id":19336,"hitpoints":720,"name":"Dragon full helm (or)"}
+{"id":19337,"hitpoints":1440,"name":"Dragon platebody (or)"}
+{"id":19338,"hitpoints":1080,"name":"Dragon platelegs (or)"}
+{"id":19339,"hitpoints":1080,"name":"Dragon plateskirt (or)"}
+{"id":19340,"hitpoints":870,"name":"Dragon square shield (or)"}
+{"id":19341,"hitpoints":720,"name":"Dragon full helm (sp)"}
+{"id":19342,"hitpoints":1440,"name":"Dragon platebody (sp)"}
+{"id":19343,"hitpoints":1080,"name":"Dragon platelegs (sp)"}
+{"id":19344,"hitpoints":1080,"name":"Dragon plateskirt (sp)"}
+{"id":19345,"hitpoints":870,"name":"Dragon sq shield (sp)"}
+{"id":19368,"hitpoints":0,"name":"Armadyl cloak"}
+{"id":19370,"hitpoints":0,"name":"Bandos cloak"}
+{"id":19372,"hitpoints":0,"name":"Ancient cloak"}
+{"id":19374,"hitpoints":480,"name":"Armadyl mitre"}
+{"id":19376,"hitpoints":480,"name":"Bandos mitre"}
+{"id":19378,"hitpoints":480,"name":"Ancient mitre"}
+{"id":19380,"hitpoints":960,"name":"Armadyl robe top"}
+{"id":19382,"hitpoints":960,"name":"Ancient robe top"}
+{"id":19384,"hitpoints":960,"name":"Bandos robe top"}
+{"id":19386,"hitpoints":720,"name":"Armadyl robe legs"}
+{"id":19388,"hitpoints":720,"name":"Bandos robe legs"}
+{"id":19390,"hitpoints":720,"name":"Ancient robe legs"}
+{"id":19398,"hitpoints":1200,"name":"Ancient platebody"}
+{"id":19400,"hitpoints":1200,"name":"Ancient platebody"}
+{"id":19401,"hitpoints":900,"name":"Ancient platelegs"}
+{"id":19403,"hitpoints":900,"name":"Ancient platelegs"}
+{"id":19404,"hitpoints":900,"name":"Ancient plateskirt"}
+{"id":19406,"hitpoints":900,"name":"Ancient plateskirt"}
+{"id":19407,"hitpoints":600,"name":"Ancient full helm"}
+{"id":19409,"hitpoints":600,"name":"Ancient full helm"}
+{"id":19410,"hitpoints":750,"name":"Ancient kiteshield"}
+{"id":19412,"hitpoints":750,"name":"Ancient kiteshield"}
+{"id":19413,"hitpoints":1200,"name":"Armadyl platebody"}
+{"id":19415,"hitpoints":1200,"name":"Armadyl platebody"}
+{"id":19416,"hitpoints":900,"name":"Armadyl platelegs"}
+{"id":19418,"hitpoints":900,"name":"Armadyl platelegs"}
+{"id":19419,"hitpoints":900,"name":"Armadyl plateskirt"}
+{"id":19421,"hitpoints":900,"name":"Armadyl plateskirt"}
+{"id":19422,"hitpoints":600,"name":"Armadyl full helm"}
+{"id":19424,"hitpoints":600,"name":"Armadyl full helm"}
+{"id":19425,"hitpoints":750,"name":"Armadyl kiteshield"}
+{"id":19427,"hitpoints":750,"name":"Armadyl kiteshield"}
+{"id":19428,"hitpoints":1200,"name":"Bandos platebody"}
+{"id":19430,"hitpoints":1200,"name":"Bandos platebody"}
+{"id":19431,"hitpoints":900,"name":"Bandos platelegs"}
+{"id":19433,"hitpoints":900,"name":"Bandos platelegs"}
+{"id":19434,"hitpoints":900,"name":"Bandos plateskirt"}
+{"id":19436,"hitpoints":900,"name":"Bandos plateskirt"}
+{"id":19437,"hitpoints":600,"name":"Bandos full helm"}
+{"id":19439,"hitpoints":600,"name":"Bandos full helm"}
+{"id":19440,"hitpoints":750,"name":"Bandos kiteshield"}
+{"id":19442,"hitpoints":750,"name":"Bandos kiteshield"}
+{"id":19443,"hitpoints":180,"name":"Ancient vambraces"}
+{"id":19445,"hitpoints":1440,"name":"Ancient body"}
+{"id":19447,"hitpoints":1080,"name":"Ancient chaps"}
+{"id":19449,"hitpoints":720,"name":"Ancient coif"}
+{"id":19451,"hitpoints":180,"name":"Bandos vambraces"}
+{"id":19453,"hitpoints":1440,"name":"Bandos body"}
+{"id":19455,"hitpoints":1080,"name":"Bandos chaps"}
+{"id":19457,"hitpoints":720,"name":"Bandos coif"}
+{"id":19459,"hitpoints":180,"name":"Armadyl vambraces"}
+{"id":19461,"hitpoints":1440,"name":"Armadyl body"}
+{"id":19463,"hitpoints":1080,"name":"Armadyl chaps"}
+{"id":19465,"hitpoints":720,"name":"Armadyl coif"}
+{"id":19613,"hitpoints":150,"name":"Bandos' book of war"}
+{"id":19615,"hitpoints":150,"name":"Armadyl's book of law"}
+{"id":19617,"hitpoints":150,"name":"Ancient book"}
+{"id":19709,"hitpoints":0,"name":"Dungeoneering master cape"}
+{"id":19712,"hitpoints":405,"name":"Void knight deflector"}
+{"id":19748,"hitpoints":0,"name":"Ardougne cloak 4"}
+{"id":19749,"hitpoints":750,"name":"Falador shield 4"}
+{"id":19754,"hitpoints":150,"name":"Karamja gloves 4"}
+{"id":19757,"hitpoints":1200,"name":"Varrock armour 4"}
+{"id":19766,"hitpoints":150,"name":"Fremennik sea boots 4"}
+{"id":19781,"hitpoints":600,"name":"Black platebody (bugged)"}
+{"id":19782,"hitpoints":450,"name":"Black platelegs (bugged)"}
+{"id":19783,"hitpoints":300,"name":"Black full helm (bugged)"}
+{"id":19785,"hitpoints":840,"name":"Elite void knight top"}
+{"id":19786,"hitpoints":630,"name":"Elite void knight robe"}
+{"id":19787,"hitpoints":840,"name":"Elite void knight top"}
+{"id":19788,"hitpoints":630,"name":"Elite void knight robe"}
+{"id":19789,"hitpoints":840,"name":"Elite void knight top"}
+{"id":19790,"hitpoints":630,"name":"Elite void knight robe"}
+{"id":19893,"hitpoints":0,"name":"Spirit cape"}
+{"id":20072,"hitpoints":450,"name":"Dragon defender"}
+{"id":20135,"hitpoints":840,"name":"Torva full helm"}
+{"id":20137,"hitpoints":840,"name":"Torva full helm"}
+{"id":20139,"hitpoints":1680,"name":"Torva platebody"}
+{"id":20141,"hitpoints":1680,"name":"Torva platebody"}
+{"id":20143,"hitpoints":1260,"name":"Torva platelegs"}
+{"id":20145,"hitpoints":1260,"name":"Torva platelegs"}
+{"id":20147,"hitpoints":840,"name":"Pernix cowl"}
+{"id":20149,"hitpoints":840,"name":"Pernix cowl"}
+{"id":20151,"hitpoints":1680,"name":"Pernix body"}
+{"id":20153,"hitpoints":1680,"name":"Pernix body"}
+{"id":20155,"hitpoints":1260,"name":"Pernix chaps"}
+{"id":20157,"hitpoints":1260,"name":"Pernix chaps"}
+{"id":20159,"hitpoints":840,"name":"Virtus mask"}
+{"id":20161,"hitpoints":840,"name":"Virtus mask"}
+{"id":20163,"hitpoints":1680,"name":"Virtus robe top"}
+{"id":20165,"hitpoints":1680,"name":"Virtus robe top"}
+{"id":20167,"hitpoints":88,"name":"Virtus robe legs"}
+{"id":20169,"hitpoints":1260,"name":"Virtus robe legs"}
+{"id":20436,"hitpoints":375,"name":"Cosmic shield"}
+{"id":20438,"hitpoints":450,"name":"Chaos shield"}
+{"id":20440,"hitpoints":300,"name":"Cosmic helmet"}
+{"id":20442,"hitpoints":360,"name":"Chaos helmet"}
+{"id":20444,"hitpoints":600,"name":"Cosmic body"}
+{"id":20446,"hitpoints":720,"name":"Chaos body"}
+{"id":20448,"hitpoints":3,"name":"Elemental boots"}
+{"id":20450,"hitpoints":15,"name":"Mind boots"}
+{"id":20452,"hitpoints":30,"name":"Body boots"}
+{"id":20454,"hitpoints":75,"name":"Cosmic boots"}
+{"id":20456,"hitpoints":90,"name":"Chaos boots"}
+{"id":20458,"hitpoints":3,"name":"Elemental gloves"}
+{"id":20460,"hitpoints":15,"name":"Mind gloves"}
+{"id":20462,"hitpoints":30,"name":"Body gloves"}
+{"id":20464,"hitpoints":75,"name":"Cosmic gloves"}
+{"id":20466,"hitpoints":90,"name":"Chaos gloves"}
+{"id":20765,"hitpoints":0,"name":"Classic cape"}
+{"id":20767,"hitpoints":0,"name":"Max cape"}
+{"id":20769,"hitpoints":100,"name":"Completionist cape"}
+{"id":20771,"hitpoints":100,"name":"Completionist cape"}
+{"id":21258,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21259,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21260,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21261,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21262,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21263,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21264,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21265,"hitpoints":480,"name":"Robin hood hat"}
+{"id":21508,"hitpoints":960,"name":"Necromancer robe top"}
+{"id":21509,"hitpoints":480,"name":"Necromancer hood"}
+{"id":21510,"hitpoints":720,"name":"Necromancer robe bottom"}
+{"id":21527,"hitpoints":975,"name":"Sacred clay shield (melee)"}
+{"id":21528,"hitpoints":975,"name":"Sacred clay shield (magic)"}
+{"id":21529,"hitpoints":975,"name":"Sacred clay shield (ranged)"}
+{"id":21538,"hitpoints":1020,"name":"Battle-mage helm"}
+{"id":21540,"hitpoints":2040,"name":"Battle-mage robe"}
+{"id":21542,"hitpoints":1530,"name":"Battle-mage robe legs"}
+{"id":21544,"hitpoints":255,"name":"Battle-mage gloves"}
+{"id":21546,"hitpoints":255,"name":"Battle-mage boots"}
+{"id":21548,"hitpoints":1020,"name":"Trickster helm"}
+{"id":21550,"hitpoints":2040,"name":"Trickster robe"}
+{"id":21552,"hitpoints":1530,"name":"Trickster robe legs"}
+{"id":21554,"hitpoints":255,"name":"Trickster gloves"}
+{"id":21556,"hitpoints":255,"name":"Trickster boots"}
+{"id":21558,"hitpoints":1020,"name":"Vanguard helm"}
+{"id":21560,"hitpoints":2040,"name":"Vanguard body"}
+{"id":21562,"hitpoints":1530,"name":"Vanguard legs"}
+{"id":21564,"hitpoints":255,"name":"Vanguard gloves"}
+{"id":21566,"hitpoints":255,"name":"Vanguard boots"}
+{"id":21736,"hitpoints":660,"name":"Akrisae's hood"}
+{"id":21738,"hitpoints":660,"name":"Akrisae's hood 100"}
+{"id":21739,"hitpoints":660,"name":"Akrisae's hood 75"}
+{"id":21740,"hitpoints":660,"name":"Akrisae's hood 50"}
+{"id":21741,"hitpoints":660,"name":"Akrisae's hood 25"}
+{"id":21752,"hitpoints":1320,"name":"Akrisae's robe top"}
+{"id":21754,"hitpoints":1320,"name":"Akrisae's robe top 100"}
+{"id":21755,"hitpoints":1320,"name":"Akrisae's robe top 75"}
+{"id":21756,"hitpoints":1320,"name":"Akrisae's robe top 50"}
+{"id":21757,"hitpoints":1320,"name":"Akrisae's robe top 25"}
+{"id":21760,"hitpoints":990,"name":"Akrisae's robe skirt"}
+{"id":21762,"hitpoints":990,"name":"Akrisae's robe skirt 100"}
+{"id":21763,"hitpoints":990,"name":"Akrisae's robe skirt 75"}
+{"id":21764,"hitpoints":990,"name":"Akrisae's robe skirt 50"}
+{"id":21765,"hitpoints":990,"name":"Akrisae's robe skirt 25"}
+{"id":21787,"hitpoints":255,"name":"Steadfast boots"}
+{"id":21789,"hitpoints":255,"name":"Steadfast boots"}
+{"id":21790,"hitpoints":255,"name":"Glaiven boots"}
+{"id":21792,"hitpoints":255,"name":"Glaiven boots"}
+{"id":21793,"hitpoints":255,"name":"Ragefire boots"}
+{"id":21795,"hitpoints":255,"name":"Ragefire boots"}
+{"id":22219,"hitpoints":480,"name":"Lunar helm"}
+{"id":22220,"hitpoints":480,"name":"Lunar helm"}
+{"id":22221,"hitpoints":960,"name":"Lunar torso"}
+{"id":22222,"hitpoints":960,"name":"Lunar torso"}
+{"id":22223,"hitpoints":720,"name":"Lunar legs"}
+{"id":22224,"hitpoints":720,"name":"Lunar legs"}
+{"id":22225,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22226,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22227,"hitpoints":120,"name":"Lunar boots"}
+{"id":22228,"hitpoints":120,"name":"Lunar boots"}
+{"id":22231,"hitpoints":480,"name":"Lunar helm"}
+{"id":22232,"hitpoints":480,"name":"Lunar helm"}
+{"id":22233,"hitpoints":960,"name":"Lunar torso"}
+{"id":22234,"hitpoints":960,"name":"Lunar torso"}
+{"id":22235,"hitpoints":720,"name":"Lunar legs"}
+{"id":22236,"hitpoints":720,"name":"Lunar legs"}
+{"id":22237,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22238,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22239,"hitpoints":120,"name":"Lunar boots"}
+{"id":22240,"hitpoints":120,"name":"Lunar boots"}
+{"id":22243,"hitpoints":480,"name":"Lunar helm"}
+{"id":22244,"hitpoints":480,"name":"Lunar helm"}
+{"id":22245,"hitpoints":960,"name":"Lunar torso"}
+{"id":22246,"hitpoints":960,"name":"Lunar torso"}
+{"id":22247,"hitpoints":720,"name":"Lunar legs"}
+{"id":22248,"hitpoints":720,"name":"Lunar legs"}
+{"id":22249,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22250,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22251,"hitpoints":120,"name":"Lunar boots"}
+{"id":22252,"hitpoints":120,"name":"Lunar boots"}
+{"id":22255,"hitpoints":480,"name":"Lunar helm"}
+{"id":22256,"hitpoints":480,"name":"Lunar helm"}
+{"id":22257,"hitpoints":960,"name":"Lunar torso"}
+{"id":22258,"hitpoints":960,"name":"Lunar torso"}
+{"id":22259,"hitpoints":720,"name":"Lunar legs"}
+{"id":22260,"hitpoints":720,"name":"Lunar legs"}
+{"id":22261,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22262,"hitpoints":120,"name":"Lunar gloves"}
+{"id":22263,"hitpoints":120,"name":"Lunar boots"}
+{"id":22264,"hitpoints":120,"name":"Lunar boots"}
+{"id":22358,"hitpoints":240,"name":"Goliath gloves (black)"}
+{"id":22359,"hitpoints":240,"name":"Goliath gloves (white)"}
+{"id":22360,"hitpoints":240,"name":"Goliath gloves (yellow)"}
+{"id":22361,"hitpoints":240,"name":"Goliath gloves (red)"}
+{"id":22362,"hitpoints":240,"name":"Swift gloves (black)"}
+{"id":22363,"hitpoints":240,"name":"Swift gloves (white)"}
+{"id":22364,"hitpoints":240,"name":"Swift gloves (yellow)"}
+{"id":22365,"hitpoints":240,"name":"Swift gloves (red)"}
+{"id":22366,"hitpoints":240,"name":"Spellcaster gloves (black)"}
+{"id":22367,"hitpoints":240,"name":"Spellcaster gloves (white)"}
+{"id":22368,"hitpoints":240,"name":"Spellcaster gloves (yellow)"}
+{"id":22369,"hitpoints":240,"name":"Spellcaster gloves (red)"}
+{"id":22420,"hitpoints":300,"name":"Illuminated Ancient Book"}
+{"id":22421,"hitpoints":300,"name":"Illuminated Book of Law"}
+{"id":22422,"hitpoints":300,"name":"Illuminated Book of War"}
+{"id":22423,"hitpoints":225,"name":"Illuminated Book of Balance"}
+{"id":22425,"hitpoints":375,"name":"Illuminated Holy Book"}
+{"id":22452,"hitpoints":60,"name":"Mycelium visor web"}
+{"id":22454,"hitpoints":90,"name":"Mycelium leggings web"}
+{"id":22456,"hitpoints":120,"name":"Mycelium poncho web"}
+{"id":22458,"hitpoints":300,"name":"Fungal visor"}
+{"id":22460,"hitpoints":300,"name":"Fungal visor (degraded)"}
+{"id":22461,"hitpoints":300,"name":"Fungal visor (degraded)"}
+{"id":22462,"hitpoints":450,"name":"Fungal leggings"}
+{"id":22464,"hitpoints":450,"name":"Fungal leggings (degraded)"}
+{"id":22465,"hitpoints":450,"name":"Fungal leggings (degraded)"}
+{"id":22466,"hitpoints":600,"name":"Fungal poncho"}
+{"id":22468,"hitpoints":600,"name":"Fungal poncho (degraded)"}
+{"id":22469,"hitpoints":600,"name":"Fungal poncho (degraded)"}
+{"id":22470,"hitpoints":720,"name":"Grifolic visor"}
+{"id":22472,"hitpoints":720,"name":"Grifolic visor (degraded)"}
+{"id":22473,"hitpoints":720,"name":"Grifolic visor (degraded)"}
+{"id":22474,"hitpoints":1080,"name":"Grifolic leggings"}
+{"id":22476,"hitpoints":1080,"name":"Grifolic leggings (degraded)"}
+{"id":22477,"hitpoints":1080,"name":"Grifolic leggings (degraded)"}
+{"id":22478,"hitpoints":1440,"name":"Grifolic poncho"}
+{"id":22480,"hitpoints":1440,"name":"Grifolic poncho (degraded)"}
+{"id":22481,"hitpoints":1440,"name":"Grifolic poncho (degraded)"}
+{"id":22482,"hitpoints":900,"name":"Ganodermic visor"}
+{"id":22484,"hitpoints":900,"name":"Ganodermic visor (degraded)"}
+{"id":22485,"hitpoints":900,"name":"Ganodermic visor (degraded)"}
+{"id":22486,"hitpoints":1350,"name":"Ganodermic leggings"}
+{"id":22488,"hitpoints":1350,"name":"Ganodermic leggings (degraded)"}
+{"id":22489,"hitpoints":1350,"name":"Ganodermic leggings (degraded)"}
+{"id":22490,"hitpoints":1800,"name":"Ganodermic poncho"}
+{"id":22492,"hitpoints":1800,"name":"Ganodermic poncho (degraded)"}
+{"id":22493,"hitpoints":1800,"name":"Ganodermic poncho (degraded)"}
+{"id":22528,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22529,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22530,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22531,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22532,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22533,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22534,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22535,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22536,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22537,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22538,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22539,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22540,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22541,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22542,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22543,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22544,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22545,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22546,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22547,"hitpoints":60,"name":"Full slayer helmet"}
+{"id":22548,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22549,"hitpoints":60,"name":"Full slayer helmet (e)"}
+{"id":22550,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22551,"hitpoints":60,"name":"Full slayer helmet (charged)"}
+{"id":22552,"hitpoints":120,"name":"Ranger boots"}
+{"id":22553,"hitpoints":120,"name":"Ranger boots"}
+{"id":22554,"hitpoints":120,"name":"Ranger boots"}
+{"id":22555,"hitpoints":120,"name":"Ranger boots"}
+{"id":22556,"hitpoints":120,"name":"Ranger boots"}
+{"id":22557,"hitpoints":120,"name":"Ranger boots"}
+{"id":22558,"hitpoints":120,"name":"Ranger boots"}
+{"id":22559,"hitpoints":120,"name":"Ranger boots"}
+{"id":23035,"hitpoints":3,"name":"Spiked gauntlets"}
+{"id":23048,"hitpoints":0,"name":"Bladestorm drape"}
+{"id":23050,"hitpoints":0,"name":"Arrowstorm drape"}
+{"id":23052,"hitpoints":0,"name":"Spellstorm drape"}
+{"id":23122,"hitpoints":450,"name":"Initiate tasset"}
+{"id":23643,"hitpoints":0,"name":"TokKul-Zo (Charged)"}
+{"id":23659,"hitpoints":0,"name":"TokHaar-Kal"}
+{"id":23684,"hitpoints":720,"name":"Lucky Armadyl helmet"}
+{"id":23685,"hitpoints":1440,"name":"Lucky Armadyl chestplate"}
+{"id":23686,"hitpoints":1080,"name":"Lucky Armadyl chainskirt"}
+{"id":23687,"hitpoints":1440,"name":"Lucky Bandos chestplate"}
+{"id":23688,"hitpoints":1080,"name":"Lucky Bandos tassets"}
+{"id":23689,"hitpoints":180,"name":"Lucky Bandos boots"}
+{"id":23692,"hitpoints":720,"name":"Lucky dragon full helm"}
+{"id":23693,"hitpoints":1440,"name":"Lucky dragon platebody"}
+{"id":23694,"hitpoints":1392,"name":"Lucky dragon chainbody"}
+{"id":23697,"hitpoints":1125,"name":"Lucky arcane spirit shield"}
+{"id":23698,"hitpoints":1125,"name":"Lucky divine spirit shield"}
+{"id":23699,"hitpoints":1125,"name":"Lucky elysian spirit shield"}
+{"id":23700,"hitpoints":1125,"name":"Lucky spectral spirit shield"}
+{"id":24134,"hitpoints":360,"name":"Morytania legs 1"}
+{"id":24135,"hitpoints":540,"name":"Morytania legs 2"}
+{"id":24136,"hitpoints":720,"name":"Morytania legs 3"}
+{"id":24137,"hitpoints":900,"name":"Morytania legs 4"}
+{"id":24354,"hitpoints":660,"name":"Dragonbone mage hat"}
+{"id":24355,"hitpoints":1320,"name":"Dragonbone mage top"}
+{"id":24356,"hitpoints":990,"name":"Dragonbone mage bottoms"}
+{"id":24357,"hitpoints":165,"name":"Dragonbone mage gloves"}
+{"id":24358,"hitpoints":165,"name":"Dragonbone mage boots"}
+{"id":24359,"hitpoints":720,"name":"Dragonbone full helm"}
+{"id":24360,"hitpoints":1440,"name":"Dragonbone platebody"}
+{"id":24361,"hitpoints":135,"name":"Dragonbone gloves"}
+{"id":24362,"hitpoints":180,"name":"Dragonbone boots"}
+{"id":24363,"hitpoints":1080,"name":"Dragonbone platelegs"}
+{"id":24364,"hitpoints":1080,"name":"Dragonbone plateskirt"}
+{"id":24365,"hitpoints":900,"name":"Dragon kiteshield"}
+{"id":24367,"hitpoints":900,"name":"Dragon kiteshield"}
+{"id":24376,"hitpoints":195,"name":"Royal d'hide vambraces"}
+{"id":24378,"hitpoints":195,"name":"Royal d'hide vambraces"}
+{"id":24379,"hitpoints":1170,"name":"Royal d'hide chaps"}
+{"id":24381,"hitpoints":1170,"name":"Royal d'hide chaps"}
+{"id":24382,"hitpoints":1560,"name":"Royal d'hide body"}
+{"id":24384,"hitpoints":1560,"name":"Royal d'hide body"}
+{"id":24388,"hitpoints":780,"name":"Royal d'hide coif 100"}
+{"id":24389,"hitpoints":780,"name":"Royal d'hide coif 80"}
+{"id":24390,"hitpoints":780,"name":"Royal d'hide coif 60"}
+{"id":24391,"hitpoints":780,"name":"Royal d'hide coif 40"}
+{"id":24392,"hitpoints":780,"name":"Royal d'hide coif 20"}
+{"id":24450,"hitpoints":30,"name":"Corrupt rogue gloves"}
+{"id":24451,"hitpoints":60,"name":"Nasty rogue gloves"}
+{"id":24452,"hitpoints":90,"name":"Malicious rogue gloves"}
+{"id":24453,"hitpoints":120,"name":"Loathsome rogue gloves"}
+{"id":24454,"hitpoints":150,"name":"Atrocious rogue gloves"}
+{"id":24974,"hitpoints":210,"name":"Pernix gloves"}
+{"id":24975,"hitpoints":210,"name":"Pernix gloves"}
+{"id":24977,"hitpoints":210,"name":"Torva gloves"}
+{"id":24978,"hitpoints":210,"name":"Torva gloves"}
+{"id":24980,"hitpoints":210,"name":"Virtus gloves"}
+{"id":24981,"hitpoints":210,"name":"Virtus gloves"}
+{"id":24983,"hitpoints":210,"name":"Torva boots"}
+{"id":24984,"hitpoints":210,"name":"Torva boots"}
+{"id":24986,"hitpoints":210,"name":"Virtus boots"}
+{"id":24987,"hitpoints":210,"name":"Virtus boots"}
+{"id":24989,"hitpoints":210,"name":"Pernix boots"}
+{"id":24990,"hitpoints":210,"name":"Pernix boots"}
+{"id":24992,"hitpoints":720,"name":"Hood of subjugation"}
+{"id":24994,"hitpoints":720,"name":"Hood of subjugation"}
+{"id":24995,"hitpoints":1440,"name":"Garb of subjugation"}
+{"id":24997,"hitpoints":1440,"name":"Garb of subjugation"}
+{"id":24998,"hitpoints":1080,"name":"Gown of subjugation"}
+{"id":25000,"hitpoints":1080,"name":"Gown of subjugation"}
+{"id":25001,"hitpoints":1050,"name":"Ward of subjugation"}
+{"id":25003,"hitpoints":1050,"name":"Ward of subjugation"}
+{"id":25004,"hitpoints":180,"name":"Boots of subjugation"}
+{"id":25006,"hitpoints":180,"name":"Boots of subjugation"}
+{"id":25007,"hitpoints":180,"name":"Gloves of subjugation"}
+{"id":25009,"hitpoints":180,"name":"Gloves of subjugation"}
+{"id":25010,"hitpoints":180,"name":"Armadyl boots"}
+{"id":25012,"hitpoints":180,"name":"Armadyl boots"}
+{"id":25013,"hitpoints":1050,"name":"Armadyl buckler"}
+{"id":25015,"hitpoints":1050,"name":"Armadyl buckler"}
+{"id":25016,"hitpoints":180,"name":"Armadyl gloves"}
+{"id":25018,"hitpoints":180,"name":"Armadyl gloves"}
+{"id":25019,"hitpoints":1050,"name":"Bandos warshield"}
+{"id":25021,"hitpoints":1050,"name":"Bandos warshield"}
+{"id":25022,"hitpoints":720,"name":"Bandos helmet"}
+{"id":25024,"hitpoints":720,"name":"Bandos helmet"}
+{"id":25025,"hitpoints":180,"name":"Bandos gloves"}
+{"id":25027,"hitpoints":180,"name":"Bandos gloves"}
+{"id":25058,"hitpoints":210,"name":"Pernix gloves"}
+{"id":25060,"hitpoints":210,"name":"Torva gloves"}
+{"id":25062,"hitpoints":210,"name":"Virtus gloves"}
+{"id":25064,"hitpoints":210,"name":"Torva boots"}
+{"id":25066,"hitpoints":210,"name":"Virtus boots"}
+{"id":25068,"hitpoints":210,"name":"Pernix boots"}
+{"id":25120,"hitpoints":150,"name":"Aten (Heru's shield)"}
+{"id":25316,"hitpoints":75,"name":"Dragon rider boots"}
+{"id":25318,"hitpoints":75,"name":"Dragon rider gloves"}
+{"id":25320,"hitpoints":900,"name":"Dragon kiteshield (or)"}
+{"id":25321,"hitpoints":900,"name":"Dragon kiteshield (sp)"}
+{"id":25350,"hitpoints":150,"name":"Goblin cower shield"}
+{"id":25352,"hitpoints":240,"name":"Raider chainbody"}
+{"id":25353,"hitpoints":150,"name":"Raider shield"}
+{"id":25553,"hitpoints":195,"name":"Royal spiky vambraces"}
+{"id":25558,"hitpoints":1050,"name":"Dragonfire shield (magic)"}
+{"id":25559,"hitpoints":750,"name":"Dragonfire shield (magic)"}
+{"id":25561,"hitpoints":1050,"name":"Dragonfire shield (ranged)"}
+{"id":25562,"hitpoints":750,"name":"Dragonfire shield (ranged)"}
+{"id":25794,"hitpoints":600,"name":"Green d'hide shield"}
+{"id":25796,"hitpoints":750,"name":"Blue d'hide shield"}
+{"id":25798,"hitpoints":825,"name":"Red d'hide shield"}
+{"id":25800,"hitpoints":900,"name":"Black d'hide shield"}
+{"id":25802,"hitpoints":750,"name":"Batwing shield"}
+{"id":25804,"hitpoints":600,"name":"Splitbark shield"}
+{"id":25806,"hitpoints":75,"name":"Leather shield"}
+{"id":25808,"hitpoints":150,"name":"Hard leather shield"}
+{"id":25810,"hitpoints":300,"name":"Studded leather shield"}
+{"id":25812,"hitpoints":450,"name":"Mystic shield"}
+{"id":25814,"hitpoints":900,"name":"Grifolic shield"}
+{"id":25821,"hitpoints":15,"name":"Hard leather boots"}
+{"id":25823,"hitpoints":60,"name":"Studded leather boots"}
+{"id":25825,"hitpoints":600,"name":"Batwing hood"}
+{"id":25827,"hitpoints":1200,"name":"Batwing torso"}
+{"id":25829,"hitpoints":150,"name":"Batwing gloves"}
+{"id":25831,"hitpoints":900,"name":"Batwing legs"}
+{"id":25833,"hitpoints":150,"name":"Batwing boots"}
+{"id":25835,"hitpoints":240,"name":"Spider silk hood"}
+{"id":25837,"hitpoints":480,"name":"Spider silk robe top"}
+{"id":25839,"hitpoints":360,"name":"Spider silk robe bottom"}
+{"id":25841,"hitpoints":60,"name":"Spider silk boots"}
+{"id":25843,"hitpoints":60,"name":"Spider silk gloves"}
+{"id":25845,"hitpoints":120,"name":"Imphide hood"}
+{"id":25847,"hitpoints":240,"name":"Imphide robe top"}
+{"id":25849,"hitpoints":180,"name":"Imphide robe bottom"}
+{"id":25851,"hitpoints":30,"name":"Imphide gloves"}
+{"id":25853,"hitpoints":30,"name":"Imphide boots"}
+{"id":25855,"hitpoints":150,"name":"Imphide shield"}
+{"id":25857,"hitpoints":360,"name":"Carapace helm"}
+{"id":25859,"hitpoints":720,"name":"Carapace torso"}
+{"id":25861,"hitpoints":540,"name":"Carapace legs"}
+{"id":25863,"hitpoints":90,"name":"Carapace boots"}
+{"id":25865,"hitpoints":90,"name":"Carapace gloves"}
+{"id":25867,"hitpoints":1188,"name":"Mod hat"}
+{"id":25868,"hitpoints":2376,"name":"Mod body"}
+{"id":25869,"hitpoints":1782,"name":"Mod legs"}
+{"id":25870,"hitpoints":297,"name":"Mod boots"}
+{"id":25871,"hitpoints":297,"name":"Mod gloves"}
+{"id":25873,"hitpoints":15,"name":"Wizard gloves"}
+{"id":25875,"hitpoints":30,"name":"Hard leather gloves"}
+{"id":25877,"hitpoints":60,"name":"Studded leather gloves"}
+{"id":25879,"hitpoints":180,"name":"Grifolic gloves"}
+{"id":25957,"hitpoints":60,"name":"Academy full helm"}
+{"id":25958,"hitpoints":120,"name":"Academy platebody"}
+{"id":25959,"hitpoints":90,"name":"Academy platelegs"}
+{"id":25964,"hitpoints":60,"name":"Academy cowl"}
+{"id":25965,"hitpoints":120,"name":"Academy body"}
+{"id":25966,"hitpoints":90,"name":"Academy chaps"}
+{"id":25972,"hitpoints":60,"name":"Academy magic hat"}
+{"id":25973,"hitpoints":120,"name":"Academy magic robe top"}
+{"id":25974,"hitpoints":90,"name":"Academy magic robe skirt"}
+{"id":25978,"hitpoints":225,"name":"Ganodermic gloves"}
+{"id":25980,"hitpoints":225,"name":"Ganodermic boots"}
+{"id":26101,"hitpoints":180,"name":"First tower robe bottom"}
+{"id":26102,"hitpoints":240,"name":"First tower robe top"}
+{"id":26103,"hitpoints":180,"name":"First tower robe bottom"}
+{"id":26104,"hitpoints":240,"name":"First tower robe top"}
+{"id":26105,"hitpoints":180,"name":"First tower robe bottom"}
+{"id":26106,"hitpoints":240,"name":"First tower robe top"}
+{"id":26107,"hitpoints":180,"name":"First tower robe bottom"}
+{"id":26108,"hitpoints":240,"name":"First tower robe top"}
+{"id":26116,"hitpoints":120,"name":"First tower hat"}
+{"id":26117,"hitpoints":120,"name":"First tower hat"}
+{"id":26118,"hitpoints":120,"name":"First tower hat"}
+{"id":26119,"hitpoints":120,"name":"First tower hat"}
+{"id":26124,"hitpoints":135,"name":"Obsidian gloves"}
+{"id":26125,"hitpoints":135,"name":"Obsidian gloves (deg)"}
+{"id":26126,"hitpoints":135,"name":"Obsidian boots"}
+{"id":26127,"hitpoints":135,"name":"Obsidian boots (deg)"}
+{"id":26128,"hitpoints":720,"name":"Obsidian warrior helm"}
+{"id":26129,"hitpoints":720,"name":"Obsidian warrior helm (deg)"}
+{"id":26130,"hitpoints":720,"name":"Obsidian ranger helm"}
+{"id":26131,"hitpoints":720,"name":"Obsidian ranger helm (deg)"}
+{"id":26132,"hitpoints":720,"name":"Obsidian mage helm"}
+{"id":26133,"hitpoints":720,"name":"Obsidian mage helm (deg)"}
+{"id":26134,"hitpoints":675,"name":"Obsidian kiteshield"}
+{"id":26135,"hitpoints":675,"name":"Obsidian kiteshield (deg)"}
+{"id":26136,"hitpoints":810,"name":"Obsidian platelegs"}
+{"id":26137,"hitpoints":810,"name":"Obsidian platelegs (deg)"}
+{"id":26138,"hitpoints":810,"name":"Obsidian plateskirt"}
+{"id":26139,"hitpoints":810,"name":"Obsidian plateskirt (deg)"}
+{"id":26140,"hitpoints":1080,"name":"Obsidian platebody"}
+{"id":26141,"hitpoints":1080,"name":"Obsidian platebody (deg)"}
+{"id":26322,"hitpoints":1020,"name":"Superior tetsu helm"}
+{"id":26323,"hitpoints":2040,"name":"Superior tetsu body"}
+{"id":26324,"hitpoints":1530,"name":"Superior tetsu legs"}
+{"id":26325,"hitpoints":996,"name":"Tetsu helm"}
+{"id":26326,"hitpoints":1992,"name":"Tetsu body"}
+{"id":26327,"hitpoints":1494,"name":"Tetsu legs"}
+{"id":26328,"hitpoints":996,"name":"Tetsu helm (worn)"}
+{"id":26329,"hitpoints":1992,"name":"Tetsu body (worn)"}
+{"id":26330,"hitpoints":1494,"name":"Tetsu legs (worn)"}
+{"id":26334,"hitpoints":1020,"name":"Superior sea singer's hood"}
+{"id":26335,"hitpoints":2040,"name":"Superior sea singer's robe top"}
+{"id":26336,"hitpoints":1530,"name":"Superior sea singer's robe bottoms"}
+{"id":26337,"hitpoints":996,"name":"Sea singer's hood"}
+{"id":26338,"hitpoints":1992,"name":"Sea singer's robe top"}
+{"id":26339,"hitpoints":1494,"name":"Sea singer's robe bottom"}
+{"id":26340,"hitpoints":996,"name":"Sea singer's hood (worn)"}
+{"id":26341,"hitpoints":1992,"name":"Sea singer's robe top (worn)"}
+{"id":26342,"hitpoints":1494,"name":"Seasinger's robe bottom (worn)"}
+{"id":26346,"hitpoints":996,"name":"Death lotus hood"}
+{"id":26347,"hitpoints":1992,"name":"Death lotus chestplate"}
+{"id":26348,"hitpoints":1494,"name":"Death lotus chaps"}
+{"id":26349,"hitpoints":996,"name":"Death lotus hood (worn)"}
+{"id":26350,"hitpoints":1992,"name":"Death lotus chestplate (worn)"}
+{"id":26351,"hitpoints":1494,"name":"Death lotus chaps (worn)"}
+{"id":26352,"hitpoints":1020,"name":"Superior death lotus hood"}
+{"id":26353,"hitpoints":2040,"name":"Superior death lotus chestplate"}
+{"id":26354,"hitpoints":1530,"name":"Superior death lotus chaps"}
+{"id":27157,"hitpoints":600,"name":"Demon slayer circlet"}
+{"id":27159,"hitpoints":900,"name":"Demon slayer skirt"}
+{"id":27161,"hitpoints":1200,"name":"Demon slayer torso"}
+{"id":27163,"hitpoints":150,"name":"Demon slayer boots"}
+{"id":27165,"hitpoints":150,"name":"Demon slayer gloves"}
+{"id":27320,"hitpoints":180,"name":"Hoardstalker helm"}
+{"id":27321,"hitpoints":360,"name":"Hoardstalker top"}
+{"id":27322,"hitpoints":270,"name":"Hoardstalker legs"}
+{"id":27323,"hitpoints":45,"name":"Hoardstalker gloves"}
+{"id":27324,"hitpoints":45,"name":"Hoardstalker boots"}
+{"id":27331,"hitpoints":14,"name":"Hoardstalker longbow"}
+{"id":27332,"hitpoints":450,"name":"Hoardstalker longbow"}
+{"id":27333,"hitpoints":900,"name":"Hoardstalker longbow"}
+{"id":27481,"hitpoints":255,"name":"Static gloves"}
+{"id":27483,"hitpoints":255,"name":"Static gloves"}
+{"id":27484,"hitpoints":255,"name":"Tracking gloves"}
+{"id":27486,"hitpoints":255,"name":"Tracking gloves"}
+{"id":27487,"hitpoints":255,"name":"Pneumatic gloves"}
+{"id":27489,"hitpoints":255,"name":"Pneumatic gloves"}
+{"id":27616,"hitpoints":120,"name":"Mask of Broken Fingers"}
+{"id":27617,"hitpoints":120,"name":"Helm of the Dead Hand"}
+{"id":27618,"hitpoints":216,"name":"Mask of Stone"}
+{"id":27619,"hitpoints":216,"name":"Helm of Petrification"}
+{"id":27620,"hitpoints":336,"name":"Mask of Reflection"}
+{"id":27621,"hitpoints":336,"name":"Helm of Little Kings"}
+{"id":27622,"hitpoints":516,"name":"Mask of the Kura"}
+{"id":27623,"hitpoints":516,"name":"Helm of the Kuraski"}
+{"id":27624,"hitpoints":576,"name":"Mask of the Abyss"}
+{"id":27625,"hitpoints":576,"name":"Helm of Warping"}
+{"id":27724,"hitpoints":14,"name":"Salve shield"}
+{"id":27726,"hitpoints":150,"name":"Wildercress shield"}
+{"id":27728,"hitpoints":300,"name":"Blightleaf shield"}
+{"id":27730,"hitpoints":450,"name":"Roseblood shield"}
+{"id":27732,"hitpoints":600,"name":"Bryll shield"}
+{"id":27734,"hitpoints":755,"name":"Duskweed shield"}
+{"id":27736,"hitpoints":900,"name":"Soulbell shield"}
+{"id":27738,"hitpoints":1050,"name":"Ectoshield"}
+{"id":27740,"hitpoints":1200,"name":"Runic shield"}
+{"id":27742,"hitpoints":1350,"name":"Spiritbloom shield"}
+{"id":27744,"hitpoints":1485,"name":"Celestial shield"}
+{"id":27803,"hitpoints":14,"name":"Protoleather shield (b)"}
+{"id":27804,"hitpoints":150,"name":"Subleather shield (b)"}
+{"id":27805,"hitpoints":300,"name":"Paraleather shield (b)"}
+{"id":27806,"hitpoints":450,"name":"Archleather shield (b)"}
+{"id":27807,"hitpoints":600,"name":"Dromoleather shield (b)"}
+{"id":27808,"hitpoints":755,"name":"Spinoleather shield (b)"}
+{"id":27809,"hitpoints":900,"name":"Gallileather shield (b)"}
+{"id":27810,"hitpoints":1050,"name":"Stegoleather shield (b)"}
+{"id":27811,"hitpoints":1200,"name":"Megaleather shield (b)"}
+{"id":27812,"hitpoints":1350,"name":"Tyrannoleather shield (b)"}
+{"id":27813,"hitpoints":1485,"name":"Sagittarian shield (b)"}
+{"id":27827,"hitpoints":14,"name":"Salve shield (b)"}
+{"id":27828,"hitpoints":150,"name":"Wildercress shield (b)"}
+{"id":27829,"hitpoints":300,"name":"Blightleaf shield (b)"}
+{"id":27830,"hitpoints":450,"name":"Roseblood shield (b)"}
+{"id":27831,"hitpoints":600,"name":"Bryll shield (b)"}
+{"id":27832,"hitpoints":755,"name":"Duskweed shield (b)"}
+{"id":27833,"hitpoints":900,"name":"Soulbell shield (b)"}
+{"id":27834,"hitpoints":1050,"name":"Ectoshield (b)"}
+{"id":27835,"hitpoints":1200,"name":"Runic shield (b)"}
+{"id":27836,"hitpoints":1350,"name":"Spiritbloom shield (b)"}
+{"id":27837,"hitpoints":1485,"name":"Celestial shield (b)"}
+{"id":27871,"hitpoints":14,"name":"Protoleather shield"}
+{"id":27873,"hitpoints":150,"name":"Subleather shield"}
+{"id":27875,"hitpoints":300,"name":"Paraleather shield"}
+{"id":27877,"hitpoints":450,"name":"Archleather shield"}
+{"id":27879,"hitpoints":600,"name":"Dromoleather shield"}
+{"id":27881,"hitpoints":755,"name":"Spinoleather shield"}
+{"id":27883,"hitpoints":900,"name":"Gallileather shield"}
+{"id":27885,"hitpoints":1050,"name":"Stegoleather shield"}
+{"id":27887,"hitpoints":1200,"name":"Megaleather shield"}
+{"id":27889,"hitpoints":1350,"name":"Tyrannoleather shield"}
+{"id":27891,"hitpoints":1485,"name":"Sagittarian shield"}
+{"id":28031,"hitpoints":240,"name":"Basic decorative platebody"}
+{"id":28032,"hitpoints":180,"name":"Basic decorative platelegs"}
+{"id":28033,"hitpoints":120,"name":"Basic decorative helm"}
+{"id":28034,"hitpoints":150,"name":"Basic decorative shield"}
+{"id":28035,"hitpoints":720,"name":"Detailed decorative platebody"}
+{"id":28036,"hitpoints":540,"name":"Detailed decorative platelegs"}
+{"id":28037,"hitpoints":360,"name":"Detailed decorative helm"}
+{"id":28038,"hitpoints":450,"name":"Detailed decorative shield"}
+{"id":28039,"hitpoints":1200,"name":"Intricate decorative platebody"}
+{"id":28040,"hitpoints":900,"name":"Intricate decorative platelegs"}
+{"id":28041,"hitpoints":600,"name":"Intricate decorative helm"}
+{"id":28042,"hitpoints":750,"name":"Intricate decorative shield"}
+{"id":28043,"hitpoints":1680,"name":"Profound decorative platebody"}
+{"id":28044,"hitpoints":1260,"name":"Profound decorative platelegs"}
+{"id":28045,"hitpoints":840,"name":"Profound decorative helm"}
+{"id":28046,"hitpoints":1050,"name":"Profound decorative shield"}
+{"id":28352,"hitpoints":540,"name":"Relic helm of Armadyl"}
+{"id":28353,"hitpoints":540,"name":"Relic helm of Bandos"}
+{"id":28354,"hitpoints":540,"name":"Relic helm of the Godless"}
+{"id":28355,"hitpoints":540,"name":"Relic helm of Saradomin"}
+{"id":28356,"hitpoints":540,"name":"Relic helm of Seren"}
+{"id":28357,"hitpoints":540,"name":"Relic helm of Sliske"}
+{"id":28358,"hitpoints":540,"name":"Relic helm of Zamorak"}
+{"id":28359,"hitpoints":540,"name":"Relic helm of Zaros"}
+{"id":28412,"hitpoints":135,"name":"Exquisite shield"}
+{"id":28413,"hitpoints":540,"name":"Exquisite shield"}
+{"id":28483,"hitpoints":216,"name":"Skirmisher helm"}
+{"id":28484,"hitpoints":324,"name":"Skirmisher helm"}
+{"id":28485,"hitpoints":432,"name":"Skirmisher helm"}
+{"id":28486,"hitpoints":552,"name":"Skirmisher helm"}
+{"id":28487,"hitpoints":672,"name":"Skirmisher helm"}
+{"id":28488,"hitpoints":432,"name":"Skirmisher cuirass"}
+{"id":28489,"hitpoints":648,"name":"Skirmisher cuirass"}
+{"id":28490,"hitpoints":864,"name":"Skirmisher cuirass"}
+{"id":28491,"hitpoints":1104,"name":"Skirmisher cuirass"}
+{"id":28492,"hitpoints":1344,"name":"Skirmisher cuirass"}
+{"id":28493,"hitpoints":324,"name":"Skirmisher tassets"}
+{"id":28494,"hitpoints":486,"name":"Skirmisher tassets"}
+{"id":28495,"hitpoints":648,"name":"Skirmisher tassets"}
+{"id":28496,"hitpoints":828,"name":"Skirmisher tassets"}
+{"id":28497,"hitpoints":1008,"name":"Skirmisher tassets"}
+{"id":28498,"hitpoints":54,"name":"Skirmisher boots"}
+{"id":28499,"hitpoints":81,"name":"Skirmisher boots"}
+{"id":28500,"hitpoints":108,"name":"Skirmisher boots"}
+{"id":28501,"hitpoints":138,"name":"Skirmisher boots"}
+{"id":28502,"hitpoints":168,"name":"Skirmisher boots"}
+{"id":28503,"hitpoints":54,"name":"Skirmisher gloves"}
+{"id":28504,"hitpoints":81,"name":"Skirmisher gloves"}
+{"id":28505,"hitpoints":108,"name":"Skirmisher gloves"}
+{"id":28506,"hitpoints":138,"name":"Skirmisher gloves"}
+{"id":28507,"hitpoints":168,"name":"Skirmisher gloves"}
+{"id":28537,"hitpoints":105,"name":"Dragonstone gauntlets"}
+{"id":28539,"hitpoints":840,"name":"Dragonstone hauberk"}
+{"id":28541,"hitpoints":420,"name":"Dragonstone helm"}
+{"id":28543,"hitpoints":630,"name":"Dragonstone greaves"}
+{"id":28545,"hitpoints":105,"name":"Dragonstone boots"}
+{"id":28608,"hitpoints":960,"name":"Tectonic mask"}
+{"id":28610,"hitpoints":960,"name":"Tectonic mask"}
+{"id":28611,"hitpoints":1920,"name":"Tectonic robe top"}
+{"id":28613,"hitpoints":1920,"name":"Tectonic robe top"}
+{"id":28614,"hitpoints":1440,"name":"Tectonic robe bottom"}
+{"id":28616,"hitpoints":1440,"name":"Tectonic robe bottom"}

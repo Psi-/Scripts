@@ -1,11 +1,15 @@
-package com.dequeue.rsbot.scripts.divination.Tasks;
+package com.dequeue.rsbot.scripts.divination.tasks;
 
+import com.dequeue.rsbot.scripts.divination.DQDivination;
 import com.dequeue.rsbot.scripts.framework.Task;
-import org.powerbot.script.methods.MethodContext;
+import org.powerbot.script.AbstractScript;
 import org.powerbot.script.util.Condition;
+import org.powerbot.script.util.Random;
 import org.powerbot.script.wrappers.Npc;
 
 import java.util.concurrent.Callable;
+
+import static com.dequeue.rsbot.util.Methods.nextNpc;
 
 /**
  * Created with IntelliJ IDEA.
@@ -13,11 +17,11 @@ import java.util.concurrent.Callable;
  */
 
 public class Harvest extends Task {
-    private int[] springIds = {18174};
-    private int[] wispIds = {18151};
+    private DQDivination script;
 
-    public Harvest(MethodContext ctx) {
-        super(ctx);
+    public Harvest(AbstractScript script) {
+        super(script);
+        this.script = (DQDivination) script;
     }
 
     @Override
@@ -29,22 +33,30 @@ public class Harvest extends Task {
                 public Boolean call() throws Exception {
                     return ctx.players.local().getAnimation() != -1;
                 }
-            }, 200, 5);
+            }, 100, Random.nextInt(10, 20));
         }
         return false;
     }
 
     @Override
     public void execute() {
-        if (!ctx.npcs.select().id(springIds, wispIds).nearest().first().isEmpty()) {
-            for (Npc npc : ctx.npcs) {
-                if (!(npc.isOnScreen() && npc.interact("Harvest"))) {
-                    ctx.camera.turnTo(npc);
-                    if (!npc.isOnScreen()) {
-                        ctx.movement.stepTowards(npc);
-                    }
-                }
-            }
+        script.painter.setStatus("Harvesting " + script.wisp + " wisps");
+        Npc npc;
+        try {
+            npc = (Npc) script.currentFocus;
+        } catch (ClassCastException e) {
+            npc = nextNpc(1, ctx, script.wisp.getWispId(), script.wisp.getSpringId());
+            script.currentFocus = npc;
         }
+        if (npc == null || !npc.isValid()) {
+            npc = nextNpc(1, ctx, script.wisp.getWispId(), script.wisp.getSpringId());
+            script.currentFocus = npc;
+        }
+
+        if (!npc.isOnScreen())
+            ctx.camera.turnTo(npc);
+        if (!npc.isOnScreen())
+            ctx.movement.stepTowards(npc);
+        else npc.interact("Harvest");
     }
 }

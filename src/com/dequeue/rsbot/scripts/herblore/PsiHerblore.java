@@ -120,7 +120,7 @@ public class PsiHerblore extends PollingScript {
         getExecQueue(State.START).offer(new Runnable() {
             @Override
             public void run() {
-                System.out.println("Script started");
+                System.out.println("Script initialized");
             }
         });
     }

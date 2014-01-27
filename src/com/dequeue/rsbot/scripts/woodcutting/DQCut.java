@@ -23,8 +23,8 @@ public class DQCut extends PollingScript implements MessageListener, PaintListen
 
     @Override
     public void start() {
-        taskList.add(new Chop(ctx));
-        taskList.add(new Drop(ctx));
+        taskList.add(new Chop(this));
+        taskList.add(new Drop(this));
     }
 
     @Override

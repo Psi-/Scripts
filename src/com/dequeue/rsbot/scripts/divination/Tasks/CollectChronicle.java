@@ -1,8 +1,8 @@
-package com.dequeue.rsbot.scripts.divination.Tasks;
+package com.dequeue.rsbot.scripts.divination.tasks;
 
 import com.dequeue.rsbot.scripts.divination.DQDivination;
 import com.dequeue.rsbot.scripts.framework.Task;
-import org.powerbot.script.methods.MethodContext;
+import org.powerbot.script.AbstractScript;
 import org.powerbot.script.wrappers.Npc;
 
 /**
@@ -10,23 +10,27 @@ import org.powerbot.script.wrappers.Npc;
  * User: Dequeue
  */
 public class CollectChronicle extends Task {
-    private int[] chronicleIds = {18204};
+    private DQDivination script;
+    private int chronicleId = 18204;
     public static int CHRONICLE_ID = 29293;
 
-    public CollectChronicle(MethodContext ctx) {
-        super(ctx);
+    public CollectChronicle(AbstractScript script) {
+        super(script);
+        this.script = (DQDivination) script;
     }
 
     @Override
     public boolean activate() {
-        return !DQDivination.haveMaxChronicles && !ctx.npcs.select().id(chronicleIds).isEmpty();
+        return //!script.haveMaxChronicles &&
+                !ctx.npcs.select().id(script.wisp.getEnrichedWispId(), script.wisp.getEnrichedSpringId()).isEmpty();
     }
 
     @Override
     public void execute() {
-        ctx.properties.setProperty("chronicle", "false");
-        for (Npc npc : ctx.npcs.nearest().first()) {
-            npc.interact("Capture");
-        }
+        script.painter.setStatus("Harvesting Enriched " + script.wisp);
+//        script.bar.setStatus("Collecting Chronicle");
+        Npc npc = ctx.npcs.poll();
+        npc.interact("Harvest");
+//            npc.interact("Capture");
     }
 }
