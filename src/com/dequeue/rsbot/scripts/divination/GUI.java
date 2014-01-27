@@ -1,6 +1,7 @@
 package com.dequeue.rsbot.scripts.divination;
 
 import com.dequeue.rsbot.scripts.divination.data.Wisp;
+import org.powerbot.script.methods.MethodContext;
 import org.powerbot.script.methods.Skills;
 
 import javax.swing.*;
@@ -13,6 +14,8 @@ import java.io.FileOutputStream;
 import java.util.Properties;
 
 public class GUI extends JFrame {
+    DQDivination script;
+    MethodContext ctx;
     private final Properties prop = new Properties();
     JRadioButton memoryToEnergyRadioButton;
     JRadioButton memoryToExperienceRadioButton;
@@ -22,8 +25,10 @@ public class GUI extends JFrame {
     private JList<String> wispList;
     private ButtonGroup buttonGroup;
 
-    public GUI(DQDivination script) {
-        init(script);
+    public GUI(DQDivination script, MethodContext ctx) {
+        this.ctx = ctx;
+        this.script = script;
+        init();
         load();
     }
 
@@ -37,7 +42,7 @@ public class GUI extends JFrame {
         return buttonGroup.getSelection().getMnemonic();
     }
 
-    public void init(final DQDivination script) {
+    public void init() {
         PATH_FILE = new File(script.getStorageDirectory(), FILE_NAME);
         setTitle("Dequeue Divination");
         setSize(360, 274);
@@ -73,7 +78,7 @@ public class GUI extends JFrame {
                         "Lustrous", "Brilliant", "Radiant",
                         "Luminous", "Incandescent"
                 });
-        int divLevel = script.getContext().skills.getLevel(Skills.DIVINATION) / 5;
+        int divLevel = ctx.skills.getLevel(Skills.DIVINATION) / 5;
         if (divLevel == 19)
             wispList.setSelectedIndex(11);
         else

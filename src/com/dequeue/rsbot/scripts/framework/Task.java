@@ -1,6 +1,7 @@
 package com.dequeue.rsbot.scripts.framework;
 
 import org.powerbot.script.AbstractScript;
+import org.powerbot.script.methods.MethodContext;
 import org.powerbot.script.methods.MethodProvider;
 
 /**
@@ -8,9 +9,11 @@ import org.powerbot.script.methods.MethodProvider;
  * User: Dequeue
  */
 
-public abstract class Task extends MethodProvider {
-    public Task(AbstractScript script) {
-        super(script.getContext());
+public abstract class Task<T> extends MethodProvider {
+    public T script;
+    public Task(T script, MethodContext ctx) {
+        super(ctx);
+        this.script = script;
     }
 
     public abstract boolean activate();

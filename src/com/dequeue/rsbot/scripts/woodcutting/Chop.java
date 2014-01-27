@@ -1,5 +1,6 @@
 package com.dequeue.rsbot.scripts.woodcutting;
 
+import com.dequeue.rsbot.scripts.divination.DQDivination;
 import com.dequeue.rsbot.scripts.framework.Task;
 import org.powerbot.script.AbstractScript;
 import org.powerbot.script.methods.MethodContext;
@@ -10,11 +11,11 @@ import org.powerbot.script.wrappers.GameObject;
  * User: Dequeue
  */
 
-public class Chop extends Task {
+public class Chop extends Task<DQCut> {
     private static int[] treeIds = {38616, 38627, 58006};
 
-    public Chop(AbstractScript script) {
-        super(script);
+    public Chop(DQCut script, MethodContext ctx) {
+        super(script, ctx);
     }
 
     @Override

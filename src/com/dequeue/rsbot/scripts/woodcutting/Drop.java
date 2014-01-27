@@ -1,5 +1,6 @@
 package com.dequeue.rsbot.scripts.woodcutting;
 
+import com.dequeue.rsbot.scripts.divination.DQDivination;
 import com.dequeue.rsbot.scripts.framework.Task;
 import org.powerbot.script.AbstractScript;
 import org.powerbot.script.methods.MethodContext;
@@ -10,11 +11,11 @@ import org.powerbot.script.wrappers.Item;
  * User: Dequeue
  */
 
-public class Drop extends Task {
+public class Drop extends Task<DQCut> {
     private static int logId = 1519;
 
-    public Drop(AbstractScript script) {
-        super(script);
+    public Drop(DQCut script, MethodContext ctx) {
+        super(script, ctx);
     }
 
     @Override

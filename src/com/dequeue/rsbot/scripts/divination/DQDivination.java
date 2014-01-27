@@ -47,7 +47,7 @@ public class DQDivination extends PollingScript implements MessageListener, Pain
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                gui = new GUI(script);
+                gui = new GUI(script, ctx);
                 gui.setVisible(true);
             }
         });
@@ -57,11 +57,11 @@ public class DQDivination extends PollingScript implements MessageListener, Pain
         wisp = gui.getWisp();
         conversionChoice = gui.getConversionChoice();
         if (ctx.skills.getLevel(Skills.DIVINATION) < 1) return;
-        taskList.add(new Harvest(this));
-//        taskList.add(new CollectChronicle(this));
-        taskList.add(new Convert(this));
-        taskList.add(new CloseInterface(this));
-//        taskList.add(new Travel(this));
+        taskList.add(new Harvest(this, ctx));
+//        taskList.add(new CollectChronicle(this, ctx));
+        taskList.add(new Convert(this, ctx));
+        taskList.add(new CloseInterface(this, ctx));
+//        taskList.add(new Travel(this, ctx));
         painter.setStartExp(ctx.skills.getExperience(Skills.DIVINATION));
         if (ctx.backpack.select().id(CollectChronicle.CHRONICLE_ID).count(true) == 10) {
             haveMaxChronicles = true;
