@@ -34,7 +34,7 @@ import java.util.List;
 public class DQDivination extends PollingScript implements MessageListener, PaintListener, BotMenuListener {
 
     public int conversionChoice = 2;
-    public boolean guiFinished, initialized, haveMaxChronicles;
+    public boolean initialized, haveMaxChronicles;
     public Wisp wisp = Wisp.NONE;
     public Drawable currentFocus;
     public Painter painter = new Painter(this, ctx, Skills.DIVINATION);
@@ -54,7 +54,6 @@ public class DQDivination extends PollingScript implements MessageListener, Pain
     }
 
     public void init() {
-        guiFinished = true;
         wisp = gui.getWisp();
         conversionChoice = gui.getConversionChoice();
         if (ctx.skills.getLevel(Skills.DIVINATION) < 1) return;
@@ -72,17 +71,13 @@ public class DQDivination extends PollingScript implements MessageListener, Pain
 
     @Override
     public int poll() {
-        if (!guiFinished) return 1000;
-        if (!initialized) {
-            init();
-        }
         for (Task task : taskList) {
             if (task.activate()) {
                 task.execute();
                 log.info((new Date()).toString().split(" ")[3] + " " + task.getClass().getSimpleName());
             }
         }
-        return 600;
+        return 500;
     }
 
     @Override

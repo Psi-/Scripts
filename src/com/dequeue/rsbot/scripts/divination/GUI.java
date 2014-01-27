@@ -38,13 +38,8 @@ public class GUI extends JFrame {
     }
 
     public void init(final DQDivination script) {
-        File f = script.getStorageDirectory();
-        if (!f.exists()) {
-            f.mkdirs();
-        }
-        PATH_FILE = new File(f, FILE_NAME);
-        setTitle(f.getAbsolutePath() + FILE_NAME);
-//        setTitle("Dequeue Divination");
+        PATH_FILE = new File(script.getStorageDirectory(), FILE_NAME);
+        setTitle("Dequeue Divination");
         setSize(360, 274);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -91,7 +86,7 @@ public class GUI extends JFrame {
         buttonGroup = new ButtonGroup();
         memoryToEnergyRadioButton = new JRadioButton("Convert memory to energy");
         memoryToExperienceRadioButton = new JRadioButton("Convert memory to experience");
-        bothToExperienceRadioButton = new JRadioButton("Convert both to experience", true);
+        bothToExperienceRadioButton = new JRadioButton("Convert both to experience");
         memoryToEnergyRadioButton.setMnemonic(0);
         memoryToExperienceRadioButton.setMnemonic(1);
         bothToExperienceRadioButton.setMnemonic(2);
@@ -164,7 +159,7 @@ public class GUI extends JFrame {
         try {
             if (PATH_FILE.exists()) {
                 prop.load(new FileInputStream(PATH_FILE));
-                switch (Integer.valueOf(prop.getProperty("Convert"))) {
+                switch (Integer.valueOf(prop.getProperty("Convert", "2"))) {
                     case 0:
                         memoryToEnergyRadioButton.setSelected(true);
                         break;
@@ -173,8 +168,6 @@ public class GUI extends JFrame {
                         break;
                     case 2:
                         bothToExperienceRadioButton.setSelected(true);
-                        break;
-                    default:
                         break;
                 }
             }

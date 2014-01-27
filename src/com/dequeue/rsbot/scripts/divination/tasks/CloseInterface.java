@@ -24,7 +24,7 @@ public class CloseInterface extends Task {
     @Override
     public boolean activate() {
         closeButton = ctx.widgets.get(INTERFACE_WIDGET_ID, CLOSE_COMPONENT_ID_1).getChild(CLOSE_COMPONENT_ID_2);
-        return closeButton.isVisible();
+        return closeButton.isValid();
     }
 
     @Override

@@ -33,7 +33,7 @@ public class Convert extends Task {
 
     @Override
     public boolean activate() {
-        return ctx.widgets.get(CONVERT_WIDGET_ID, MEMORY_TO_EXP_COMPONENT_ID).isOnScreen()
+        return ctx.widgets.get(CONVERT_WIDGET_ID, MEMORY_TO_EXP_COMPONENT_ID).isValid()
                 || (ctx.backpack.select().count() == 28 && !ctx.players.local().isInMotion());
     }
 
@@ -41,7 +41,7 @@ public class Convert extends Task {
     public void execute() {
         script.painter.setStatus("Converting memories");
         final int componentId = CONVERSION_CHOICES[script.conversionChoice];
-        if (ctx.widgets.get(CONVERT_WIDGET_ID, componentId).isOnScreen()) {
+        if (ctx.widgets.get(CONVERT_WIDGET_ID, componentId).isValid()) {
             ctx.widgets.get(CONVERT_WIDGET_ID, componentId).click();
             return;
         }
@@ -52,7 +52,7 @@ public class Convert extends Task {
                 if (!Condition.wait(new Callable<Boolean>() {
                     @Override
                     public Boolean call() throws Exception {
-                        return ctx.widgets.get(CONVERT_WIDGET_ID, componentId).isOnScreen();
+                        return ctx.widgets.get(CONVERT_WIDGET_ID, componentId).isValid();
                     }
                 }, 500, 8)) {
                     return;
